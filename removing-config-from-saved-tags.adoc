@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以删除或更新不需要的已保存配置。 
+---
+= 从已保存标记中删除配置
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以删除或更新不需要的已保存配置。
+
+
+
+== 关于此任务
+
+如果您已从结果中保存配置、则可以删除不再需要的配置以供参考。
+
+
+
+== 步骤
+
+. 单击黄色星号图标以删除或更新已保存的配置。
+. 单击*Remove*以删除保存的配置。单击弹出窗口中的删除按钮后、星号图标将从黄色变为白色。
+

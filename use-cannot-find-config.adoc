@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: use-cannot-find-config.html 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified,cannot, find, configuration 
+summary: 'NetApp互操作性表工具(IMT)是一款基于Web的应用程序。使用IMT、您可以搜索符合NetApp指定的标准和要求的NetApp产品和组件的配置' 
+---
+= 正在使用"找不到配置"
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果找不到所需的配置，可以使用*CA找不到config?*功能将问题报告给支持团队。
+
+打开“找不到配置”菜单以报告问题。填写并发送表格以获得帮助。

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 您可以使用搜索文本框搜索组件、解决方案、类别和配置。根据您输入的文本、搜索文本框会显示可能的匹配项、您可以将这些匹配项包含在搜索条件中。 
+---
+= 使用搜索文本框
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用搜索文本框搜索组件、解决方案、类别和配置。根据您输入的文本、搜索文本框会显示可能的匹配项、您可以将这些匹配项包含在搜索条件中。

@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: troubleshooting-interoperability-matrix-tool-issues.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您应了解一些常见的互操作性表工具问题。 
+---
+= 对互操作性表工具问题进行故障排除
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您应了解一些常见的互操作性表工具问题。
+
+[cols="2*"]
+|===
+| 问题 | 临时解决策 
+
+
+| 无法加载互操作性表工具 | 您必须清除浏览器缓存、打开新浏览器并尝试登录到IMT。 
+
+
+| 互操作性表工具挂起 | 这可能是网络问题、您可以尝试刷新浏览器。 
+
+
+| PI不推断所需的解决方案 | 您必须从*解决方案目录*中选择适当的解决方案或选择特定组件。 
+
+
+| 无法在*Refine Search Criteries*中为HBA配置选择不同的属性 | 您必须取消选中HBA组件并选择一个属性。 
+
+
+| 每日报告生成显示404错误 | 每日cron作业在太平洋标准时间22：00小时运行、持续30分钟、报告将不可用。 
+
+
+| 首次登录到互操作性表工具时、登录身份验证失败 | 您必须同步互操作性表工具的登录凭据。 
+
+
+| 不会显示新添加的组件 | 等待四小时；组件将自动更新。 
+|===

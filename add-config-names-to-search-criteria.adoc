@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: add-config-names-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用搜索文本框将配置名称添加到搜索条件中。 
+---
+= 将配置名称添加到搜索条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用搜索文本框将配置名称添加到搜索条件中。
+
+
+
+== 开始之前
+
+要搜索兼容配置、您必须知道配置名称详细信息。例如、20150316-114603946是一个配置名称。
+
+
+
+== 步骤
+
+. 在搜索框中、输入配置名称以查看可能的匹配项。
+. 单击*Add*将配置名称包含到搜索条件中。
+

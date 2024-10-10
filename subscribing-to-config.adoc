@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以为特定解决方案或组件订阅具有您选择的任何名称的配置。 
+---
+= 订阅配置
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以为特定解决方案或组件订阅具有您选择的任何名称的配置。这有助于在订阅行中有更新或更改时通过电子邮件接收更新。您最多可以订阅20个配置。
+
+
+
+== 关于此任务
+
+您可以收到以下实例的电子邮件：
+
+* 将组件添加到配置时
+* 从配置中删除组件时
+* 在配置中添加或删除注释时
+* 当配置状态从支持更改为任何其他终端状态(EOS、已废弃等)时。
+
+
+
+
+== 步骤
+
+. 在*results*页面中，单击星号保存配置。保存配置后、星形将变为黄色。最多可以保存20个配置。
+. 在*Tag Configuration*对话框中，输入名称和说明，将配置添加为书签以供参考。
+. 单击*订阅*此配置复选框。
+. 单击*Tag*。
+

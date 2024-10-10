@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-search-workflow.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow 
+summary: 在开始使用互操作性表工具时、请务必了解使用工作流说明的一些常规用例。 
+---
+= 互操作性表工具搜索工作流
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在开始使用互操作性表工具时、请务必了解使用工作流说明的一些常规用例。

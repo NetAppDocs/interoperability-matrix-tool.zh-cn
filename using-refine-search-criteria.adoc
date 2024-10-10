@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 细化搜索条件允许您浏览与您的商品兼容的配置。 
+---
+= 使用细化搜索条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*细化搜索条件*允许您浏览与您的产品兼容的配置。通过从不同类别中选择组件、您可以缩小配置范围、使其符合您的产品所需的配置。
+
+
+NOTE: 关键字*机架*和*刀片*仅与*4.x*中的组件一起显示。

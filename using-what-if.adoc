@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: using-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 您可以浏览搜索条件支持的所有可能配置。 
+---
+= 使用假设条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以浏览搜索条件支持的所有可能配置。您可以使用*What If*升级或降级选定配置的组件并探索兼容性。
+
+如果找不到所需的配置，请单击*Feedback*报告问题。有关详细信息，请参见 xref:reporting-an-issue.adoc[报告问题]。

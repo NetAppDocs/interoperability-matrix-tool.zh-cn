@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-windows-server.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: 您可以使用互操作性表工具查看适用于您的产品的兼容Windows Server主机。 
+---
+= 查找适用于您的产品的兼容Windows Server主机
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用互操作性表工具查看适用于您的产品的兼容Windows Server主机。
+
+下面显示了工作流：
+
+image::pg13_imt.png[第13页IMT]

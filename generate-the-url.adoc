@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: generate-the-url.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在细化搜索条件页面中、您可以生成兼容性URL。 
+---
+= 生成URL
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在*Refine Search Criteries*页中，可以生成兼容性URL。您可以将生成的URL嵌入其他工具、将其上传到NetApp支持站点或通过电子邮件进行共享。生成的URL可以直接上传到浏览器中。
+
+.步骤
+. 在*Refine Search Criteries*页面中，选择要筛选结果的组件。
+. 单击*生成URL*。
+. 从"URL共享"窗口复制URL。
+. 单击*确定*。
+
+
+
+NOTE: 您可以使用已生成的URL。此URL将显示您添加到搜索条件中的组件和解决方案。

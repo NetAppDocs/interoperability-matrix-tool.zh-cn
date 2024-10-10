@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以订阅您选择的单个或多个类别。 
+---
+= 订阅类别
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以订阅您选择的单个或多个类别。
+
+
+
+== 关于此任务
+
+在类别中添加或删除组件时、您将收到电子邮件通知。
+
+
+
+== 步骤
+
+. 单击标题菜单中的*订阅*链接。
+. 在订阅窗口中，选择*Category (类别)*选项卡。
+. 对于您选择的类别、选中添加或删除的组件选项对应的复选框。
+. 在*频率*字段中，选择*立即*或*摘要*。
++
+
+NOTE: 默认选择为*立即*。
+
+. 单击*subscribe*以获取您已订阅的类别的订阅。
+
+
+
+NOTE: 您可以单击*Reset (重置)*清除类别选项卡中的所有选择。

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: understanding-and-using-imt-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 通过互操作性表工具、您可以查看和导出符合要求的配置的结果。 
+---
+= 了解并使用互操作性表工具结果
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+通过互操作性表工具、您可以查看和导出符合要求的配置的结果。在*results*页面中，您可以通过选择与选定配置兼容的相关解决方案来构建端到端视图。此外，您还可以使用*What If*功能升级或降级配置中的组件。

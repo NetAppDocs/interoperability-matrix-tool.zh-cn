@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以删除已保存的搜索条件。 
+---
+= 删除保存的条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以删除已保存的搜索条件。
+
+
+
+== 关于此任务
+
+要删除已保存的条件、您必须知道已保存条件的名称。
+
+
+
+== 步骤
+
+. 单击*Action*列下的删除图标*X*。此时将显示一个弹出窗口、询问您是否要删除已保存的条件。
+. 单击*Yes*以删除保存的条件。
+. 单击*否*以保留保存的准则。
+

@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以订阅您选择的单个或多个组件。 
+---
+= 订阅组件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以订阅您选择的单个或多个组件。
+
+
+
+== 关于此任务
+
+在组件的显示名称或组件状态发生更改时、您将收到电子邮件通知。
+
+
+
+== 步骤
+
+. 单击标题菜单中的*订阅*链接。
+. 在订阅窗口中，选择*Component*选项卡。
+. 要订阅所选的组件，请选中*Attributesupdated (属性已更新)*选项的复选框。
+. 在*频率*字段中，选择*立即*或*摘要*。
++
+
+NOTE: 默认选择为*立即*。
+
+. 单击*subscribe*以获取您已订阅的组件的订阅。
++
+
+NOTE: 您可以单击*Reset (重置)*清除*Component*(组件)选项卡中的所有选择。
+
+

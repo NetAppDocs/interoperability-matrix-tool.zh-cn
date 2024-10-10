@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 通过互操作性表工具、您可以通过选择与特定配置兼容的相关解决方案来为该配置创建端到端视图。 
+---
+= 为选定配置创建端到端视图
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+通过互操作性表工具、您可以通过选择与特定配置兼容的相关解决方案来为该配置创建端到端视图。您可以使用*results*页面中的*构建端到端视图带*功能为配置创建端到端视图。
+
+
+
+== 关于此任务
+
+您只能从*results*页面为特定配置创建端到端视图。
+
+
+
+== 步骤
+
+. 在特定配置的*results*页面中，单击*使用*构建端到端视图下拉列表。
+. 从下拉列表中、选择与该特定配置兼容的所需解决方案。与该特定配置不兼容的解决方案将灰显。
+. IMT会在*results*页面中显示一个新选项卡，指示修改后的配置。根据您的要求，您可以选择使用*使用*构建端到端视图*功能添加其他解决方案，也可以导出配置。
+

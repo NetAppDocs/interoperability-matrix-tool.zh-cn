@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: defining-and-entering-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以组合使用组件、解决方案或类别来定义搜索条件。 
+---
+= 定义并输入搜索条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以组合使用组件、解决方案或类别来定义搜索条件。通过互操作性表工具、您可以通过添加组件、解决方案或类别来输入搜索条件。您可以使用搜索文本框、解决方案资源管理器或组件资源管理器输入搜索条件。

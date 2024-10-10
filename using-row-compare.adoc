@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 许多行在互操作性表工具中都包含非常相似的信息、要找出行之间的差异、您可能需要手动执行一个繁琐的过程。 
+---
+= 使用行比较
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+许多行在互操作性表工具中都包含非常相似的信息、要找出行之间的差异、您可能需要手动执行一个繁琐的过程。互操作性表工具提供了比较两行的功能。
+
+
+
+== 关于此任务
+
+在结果页面中、每个解决方案都会托管添加以比较按钮或配置卡标题上的图标。
+
+
+
+== 步骤
+
+. 要添加要比较的配置，请单击*Configuration Component Compare*图标。您最多可以选择两个配置进行比较。
+. 单击*Configuration Component Compare*按钮比较两行。
+
+
+
+
+== 结果
+
+在中途停留显示框中，差异以*Bold*字体突出显示。这些组件会分组在相应的组件类型下。两行中相同的组件将采用普通字体。您将无法比较两个解决方案之间的行。

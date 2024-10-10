@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-configuration.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用您选择的任何名称保存特定解决方案的配置。 
+---
+= 保存配置
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用您选择的任何名称保存特定解决方案的配置。这有助于您稍后检索配置、而无需记住复杂的配置ID。
+
+
+
+== 开始之前
+
+您可以稍后通过查找指定的名称来轻松检索所需的配置。
+
+
+
+== 关于此任务
+
+如果要稍后引用配置、可以使用您选择的任何名称保存配置。
+
+
+
+== 步骤
+
+. 在*results*页面中，单击星号保存配置。保存配置后、星形将变为黄色。最多可以保存20个配置。
+. 在*Tag Configuration*对话框中，输入名称和说明，将配置添加为书签以供参考。保存的配置名称将显示在配置详细信息链接上。您可以将多个配置添加到特定标记。一个标签是单个解决方案所特有的。不同用户可以使用相同的标记名称。
+. 从下拉箭头中选择标记名称、将配置添加到已保存的选项卡。
+

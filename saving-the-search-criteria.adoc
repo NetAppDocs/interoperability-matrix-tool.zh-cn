@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '在"细化搜索条件"页面上、您可以选择保存或更新搜索条件、以便日后检索。' 
+---
+= 保存搜索条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在*Refine Search Criteries*页上，您可以选择保存或更新搜索条件，以便以后检索。
+
+
+
+== 开始之前
+
+您必须已在第一页上添加解决方案和组件、才能保存条件以供将来参考。
+
+.步骤
+. 单击*细化搜索准则*页上的*保存准则*。
+. 输入*Criteria Name*并在*Description*字段中添加信息。“*标准名称”可以是字母数字，最多可以添加20个字符。“*Description*”字段最多可包含100个字母数字字符。互操作性表工具不允许在保存条件中使用重复名称。*标准名称*为必填项。
+. 单击*Update Criteries*以添加要包含在保存的条件中的过滤器或标准。
+. 单击 * 保存 * 。保存准则后，*保存准则*链接将更改为*更新准则*。最多可以保存10个搜索条件。
+
+
+
+
+== 结果
+
+单击*保存的搜索*时，将显示*保存的条件*弹出窗口。“*最近搜索*”选项卡显示最近的搜索。
+
+最近保存的每个搜索都通过其时间戳进行唯一标识。您可以单击时间戳转到*细化搜索标准*页面。

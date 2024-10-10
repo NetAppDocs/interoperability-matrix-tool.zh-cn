@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: *假设*允许您探索所有可能支持的受支持配置。 
+---
+= 如何使用假设条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*假设*允许您探索所有可能支持的受支持配置。您可以使用*What If*功能升级或降级选定配置中的组件并探索兼容性。要在升级或降级组件后查看所有受支持的配置，可以使用*Export*选项将配置详细信息导出到Excel工作表或PDF。
+
+在*假设*窗口中选择要升级或降级的特定组件后，您可以查看选定组件是否与配置中的其他组件兼容，或者是否没有匹配的配置。如果没有匹配的配置、则必须考虑扩展初始条件以派生更多配置。
+
+“*假设”窗口分为两个窗格：
+
+* 上部窗格指示选定组件是否与任何有效配置匹配。
+* 下部窗格显示了各种类别和相应的组件版本。
+
+
+如果找不到所需的配置，请单击*Feedback*报告问题。
+
+有关详细信息，请参见 link:reporting-an-issue.html["报告问题"]。

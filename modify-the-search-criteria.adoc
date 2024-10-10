@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '从"细化搜索条件"页面中、您可以选择修改搜索条件、以便将解决方案、组件或类别添加到条件中。' 
+---
+= 修改搜索条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在*Refine Search Criteries*页中，您可以选择修改搜索条件，以便将解决方案、组件或类别添加到条件中。
+
+
+
+== 步骤
+
+. 在*细化搜索准则*页中，单击*更改准则*。
+. 在搜索条件页面中、您可以使用搜索文本框添加解决方案、组件或类别。
+. 单击*Next*，在*Refine Search Criteries*页中查看兼容配置。
+

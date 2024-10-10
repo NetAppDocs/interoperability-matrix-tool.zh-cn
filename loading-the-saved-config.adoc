@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以从主页加载先前保存的配置。您可以查看已保存配置的标记名称、说明、解决方案名称。 
+---
+= 加载已保存的配置
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以从主页加载先前保存的配置。您可以查看已保存配置的标记名称、说明、解决方案名称。
+
+
+
+== 开始之前
+
+您可以通过查找为特定配置指定的名称来加载该特定配置。
+
+
+
+== 关于此任务
+
+如果您已保存配置、则可以稍后加载这些配置。
+
+
+
+== 步骤
+
+. 在主页上，单击*保存的搜索*选项加载保存的配置。
+. 在*保存的配置*选项卡中，单击配置。
+. 将鼠标悬停在已保存配置上可显示配置名称。
+. 单击*Tag Name*并加载配置。
+. 单击*查看详细信息*链接转到结果页面。
+

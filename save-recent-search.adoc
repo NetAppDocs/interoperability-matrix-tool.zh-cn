@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-overview.html 
+keywords: imt, interoperability, matrix, tool, 
+summary: 您可以保存最近的搜索、以保留条件供以后搜索使用。 
+---
+= 保存最近的搜索
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在Welcome to the IMT页面中、您可以保存最近的搜索、以保留条件供以后搜索使用。
+
+.步骤
+. 单击解决方案搜索或高级搜索。
+. 选择搜索条件。
+. 选择Skip to Results (跳到结果)或单击Next (下一步)以细化搜索条件、然后导航到View Supported Configurations (Results)(查看支持的配置(结果))页面。
+
+
+此时将显示一个弹出对话框、通知您您准则已自动保存。

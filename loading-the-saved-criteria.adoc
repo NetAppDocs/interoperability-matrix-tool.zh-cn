@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在主页中、您可以选择搜索组件或加载先前保存的条件。 
+---
+= 加载保存的条件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在主页中、您可以选择搜索组件或加载先前保存的条件。
+
+
+
+== 开始之前
+
+您必须已将搜索条件保存在主页上。
+
+
+
+== 关于此任务
+
+您可以单击*保存的搜索*以加载先前保存的所有准则。
+
+
+
+== 步骤
+
+. 单击第一页上的*保存的搜索*。
+. 单击*Criteries*或*Configuration*选项卡加载保存的准则或配置。选择条件名称后、该条件将加载到搜索条件面板中。
+

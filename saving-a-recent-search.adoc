@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: saving-a-recent-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在Welcome to the IMT页面中、您可以保存最近的搜索、以保留条件供以后搜索使用。 
+---
+= 保存最近的搜索
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在Welcome to the IMT页面中、您可以保存最近的搜索、以保留条件供以后搜索使用。
+
+
+
+== 步骤
+
+. 单击*解决方案搜索*或*高级搜索*。
+. 选择搜索条件。
+. 选择*跳到结果*或单击*下一步*以细化搜索条件，然后导航到*查看支持的配置*(结果)页面。此时将显示一个弹出对话框、通知您您准则已自动保存。
+

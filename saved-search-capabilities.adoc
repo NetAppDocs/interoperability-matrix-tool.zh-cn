@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: saved-search-capabilities.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, search, criteria, solution , explorer 
+summary: 您可以使用*保存的搜索*菜单加载不同的解决方案或配置，该菜单可用于导航到以前保存的搜索结果、最近的搜索结果和保存的配置。 
+---
+= 已保存搜索功能
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用*保存的搜索*菜单加载不同的解决方案或配置，该菜单可用于导航到以前保存的搜索结果、最近的搜索结果和保存的配置。
+
+“*搜索准则*”选项卡包含保存的搜索。在此选项卡上、您可以共享搜索或查看其他人与您共享的搜索。“*配置*”选项卡用于保存已保存的配置。在此选项卡上、您可以共享配置或查看其他人与您共享的配置。
+
+“最近搜索”选项卡包含最后30组搜索条件，从最近到最早。它还列出了表示发起页面的*搜索流*，可以是*列表和查找、解决方案资源管理器或高级搜索*。系统会自动保存条件。此页面还列出了已保存或最近搜索的*上次修改日期*。您可以*加载*从列表中搜索以分别查看条件或配置。

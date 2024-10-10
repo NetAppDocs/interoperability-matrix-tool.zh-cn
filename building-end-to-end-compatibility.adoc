@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: building-end-to-end-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 您可以使用互操作性表工具构建跨产品的端到端兼容性视图。 
+---
+= 在产品之间建立端到端兼容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用互操作性表工具构建跨产品的端到端兼容性视图。
+
+下面显示了工作流：
+
+image::pg17_imt.png[第17页IMT]

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: performing-common-searches.html 
+keywords: interoperability matrix tool, ONTAP SAN Host Simplified, Active IQ Advisor 
+summary: '使用互操作性表工具(IMT)主页上的卡片执行常见搜索、包括简化的ONTAP SAN主机、解决方案搜索、列表和查找以及高级搜索。' 
+---
+= 执行常见搜索
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+使用互操作性表工具(IMT)主页上的卡执行常见搜索，包括*简化ONTAP主机*、*解决方案搜索*、*列表和查找*以及*高级搜索*。
+
+打开IMT时、您会在主页上看到最常见的搜索类型：
+
+* *简化的ONTAP SAN主机*
+* *解决方案搜索*
+* *列出并查找*
+* *高级搜索*
+
+
+您也可以从主页观看 https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["培训视频"]或打开 https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance["Active IQ顾问"]。

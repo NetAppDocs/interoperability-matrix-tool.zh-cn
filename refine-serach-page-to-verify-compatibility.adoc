@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 通过互操作性表工具，您可以从*Refine Search Criteries*页面浏览与您的产品兼容的配置。 
+---
+= 精炼搜索条件页面以验证兼容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+通过互操作性表工具，您可以从*Refine Search Criteries*页面浏览与您的产品兼容的配置。您可以将此页面中的配置结果缩小到您的产品所需的配置。
+
+只有当您输入的条件具有受支持的配置时，您才能从初始搜索条件页面导航到*Refine Search Criteries*页面。“*细化搜索条件*”页面分为两个窗格：
+
+* *搜索条件*：显示添加到搜索条件中的解决方案、组件和筛选器。您可以修改初始搜索条件以查看所需的配置结果。您可以选中*Change Criteries*返回到*Search Criteries*页并修改初始搜索条件。您可以选中*动态过滤*选项卡，立即查看组件之间的兼容性。您可以取消选中*Dynamic Filtering*选项卡以将多个组件添加到一起，然后单击*Update*计数。您可以选中*尝试其他方法*选项卡以导航到主页。
+* *细化搜索条件*：显示不同类别下的组件列表。此窗格中列出的类别取决于搜索条件和兼容配置。
++
+** 如果在初始搜索条件中包含了解决方案，则可以在“细化*Search Criteries*”页面上从该特定类别中选择组件，以及从其他类别中选择组件。
+** 如果在初始搜索条件中包含了特定组件，则不能在*Refine Search Criteries*页上取消选择初始搜索条件中包含的组件，但可以从其他类别中选择其他组件。
+
+
+
+
+在每个类别中、您可以使用筛选器图标显示搜索文本框并搜索特定组件。如果要重置或清除“*搜索准则*”窗格中的组件选择，请单击*Clear All*。
+
+根据您从不同类别中选择的组件、您会发现配置结果的数量可能会有所不同。您选择的组件越多、互操作性表工具越能缩小搜索结果范围、使您可以查看产品所需的配置。

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: the-activeiq-interop-advisor-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 通过Active IQ互操作性顾问工具、您可以在使用特定条件进行搜索时生成兼容性报告。 
+---
+= 用于确定兼容性的Active IQ互操作顾问工具
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+使用* Active IQ互操作顾问*工具可以在使用特定条件进行搜索时生成兼容性报告。
+
+您可以按以下任一条件进行搜索：
+
+* 序列号
+* 集群ID
+* OneCollect作业ID
+
+
+您可以在*MyAutoSupport*中找到以前的搜索条件信息。

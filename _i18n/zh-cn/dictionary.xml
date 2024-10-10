@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec29b204bdfea025d0a04da9c1bd84d2" category="summary">您可以使用搜索文本框或高级搜索将组件添加到搜索条件中。</block>
+  <block id="3edf5099c530f4b5bf9fd5e0777eff7a" category="doc">将组件添加到搜索条件</block>
+  <block id="e646fe8093cae076f04ace90c652382f" category="paragraph">您可以使用搜索文本框或*高级搜索*将组件添加到搜索准则中。</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">关于此任务</block>
+  <block id="1b8078dfaa97a9198e88328fca0e31bf" category="paragraph">如果您知道要添加到搜索准则中的组件、可以在搜索文本框中输入组件名称。如果不确定要添加到搜索准则中的组件，可以使用*高级搜索*。</block>
+  <block id="ebc1aa903a0a85396e12956f684427d2" category="paragraph">如果要清除搜索条件中包含的组件，可以单击右上角的*全部清除*。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步骤</block>
+  <block id="b13b1beb16e7b3bbe18ffc3110b849e6" category="list-text">在互操作性表工具主页中、在搜索文本框中输入组件名称以查看此组件的可能匹配项。</block>
+  <block id="7359bee9ebd609ed80ffd27e90f987c2" category="list-text">单击*Add*将组件包含到搜索准则中。</block>
+  <block id="f444123f1ed5a79c79095c2a8283fa3b" category="list-text">单击*Add* As (*添加*为)将多个类别的组成部分包含到搜索条件中。</block>
+  <block id="a0906cb25d9e444b66df8499ea23ebc0" category="list-text">如果单击*显示所有匹配项*，IMT将显示*高级搜索*，您可以使用该搜索条件包含更多组件。</block>
+  <block id="7a30b55a4c862b36fb2093711f7a6f15" category="list-text">可选。您可以使用*高级搜索*在搜索准则中包括一个组件。</block>
+  <block id="08feac9cb5b89652b139e70810163d12" category="list-text">单击*高级搜索*。</block>
+  <block id="00186b1e3606607157e8569e3c14e11d" category="list-text">在*Advanced Search*窗口中，从左窗格中选择一个类别或解决方案。</block>
+  <block id="6150b2c40e2b2d0ed506f05a1aabf090" category="list-text">在右窗格中，确定要添加到搜索条件中的组件，然后单击*Add*。</block>
+  <block id="2d657e93aaa732cc222a1272267fe78f" category="list-text">在*高级搜索*窗口中输入关键字。</block>
+  <block id="da3e1eecdb94e4db3eb9515e82a18d50" category="paragraph">您可以激活关键字作为搜索选项。如果已激活、则可以使用与行关联的关键字搜索一个或多个行。您也可以使用*高级搜索*窗口中的搜索文本框来搜索特定组件。要删除使用*高级搜索*添加的组件，可以单击右窗格中的*删除*。</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="section-title">结果</block>
+  <block id="347d888cba284ec87f2267c0cacea73f" category="paragraph">当您在搜索条件中包括组件时，这些组件将显示在右窗格的“*搜索条件*”下。</block>
+  <block id="c87faeee80031f0a604ec5b1fef2d9dc" category="summary">您可以使用搜索文本框将配置名称添加到搜索条件中。</block>
+  <block id="19612440ad579d0845fc77c245ab8bf5" category="doc">将配置名称添加到搜索条件</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="section-title">开始之前</block>
+  <block id="544b4307f9b18bdca5c80d148e5534dc" category="paragraph">要搜索兼容配置、您必须知道配置名称详细信息。例如、20150316-114603946是一个配置名称。</block>
+  <block id="c5f08056722017680adcbcbc5ac47db4" category="list-text">在搜索框中、输入配置名称以查看可能的匹配项。</block>
+  <block id="fc30ed61651dd02acb0d91c669eda8b8" category="list-text">单击*Add*将配置名称包含到搜索条件中。</block>
+  <block id="6c1d3086557acbaa29d71c4f5d66fe99" category="summary">您可以使用搜索文本框或解决方案搜索将解决方案添加到搜索条件中。</block>
+  <block id="f2dd2f0f8b0cf1eb92604fcf3246388f" category="doc">将解决方案添加到搜索条件</block>
+  <block id="21f4f2c603c6a9d7c6b8eca3b0f72bf9" category="paragraph">您可以使用搜索文本框或*解决方案搜索*将解决方案添加到搜索条件中。</block>
+  <block id="c3b8a602c72ab1da1a288b28a3d303c9" category="paragraph">如果您知道要添加到搜索条件中的特定解决方案、可以在搜索文本框中输入解决方案名称。如果您不确定要添加到搜索条件中的解决方案，可以使用*解决方案搜索*。</block>
+  <block id="19d0ca12a0d83c4421882a1980ac30ac" category="paragraph">如果要清除搜索条件中包含的解决方案，可以单击右上角的*全部清除*。</block>
+  <block id="e1103722ec2e10b538810bbb7f3c912f" category="list-text">在互操作性表工具主页中、在搜索文本框中输入解决方案名称以查看可能的匹配项。</block>
+  <block id="0e839b0868b1f907c508aed01aedcd6d" category="list-text">单击*Add*将解决方案包含到搜索准则中。</block>
+  <block id="9c71399453218b126316cfa8c158e22b" category="list-text">可选。您可以使用*解决方案搜索*将解决方案包括到搜索条件中。</block>
+  <block id="714eaf61d8f2b023051a8d100c238594" category="list-text">单击*解决方案搜索*。</block>
+  <block id="fd272e8e969700a7df504173f6c94217" category="list-text">在*解决方案搜索*字段中，确定要添加到搜索准则中的解决方案，然后单击*Add*。</block>
+  <block id="b99bbb0f522e170d357820debbcc41de" category="list-text">如果需要，您可以启用*包括所需PVR、EOS*和*已废弃配置*复选框。此复选框包括产品差异请求、版本支持结束以及结果中的废弃项。</block>
+  <block id="05f717f2635fbac040f4b9dcfccec9fa" category="paragraph">您可以使用*解决方案搜索*窗口中的搜索文本框来搜索特定的解决方案。要删除使用*解决方案搜索*添加的解决方案，请单击顶部窗格中的*删除*。</block>
+  <block id="998175082912beb021f4284c543f794b" category="paragraph">当您在搜索条件中包含解决方案时，这些解决方案将显示在右窗格中的*Search Criteries*下。</block>
+  <block id="3dcfd6a4c3a84e20a59a4cf1daf54f63" category="summary">在精炼搜索条件页面中、您可以通过从不同类别中选择组件来应用筛选器。通过应用筛选器、您可以将组件添加到搜索条件中并缩小配置结果的范围。</block>
+  <block id="2da751b1ae9cfbd7a565d0aa3303ac08" category="doc">将筛选器应用于类别</block>
+  <block id="8bd3f1f2926b69029497fe1b18c914e4" category="paragraph">在*Refine Search Criteries*页面中，您可以通过从不同类别中选择组件来应用筛选器。通过应用筛选器、您可以将组件添加到搜索条件中并缩小配置结果的范围。</block>
+  <block id="54fedbd4c5d464f56d5c258fa8e8fd14" category="list-text">根据您的要求，在*细化搜索准则*页面上从所需类别中选择组件。在每个类别中、您可以搜索特定组件并选择所需组件。</block>
+  <block id="aff5c57752a05d09bdc15021f4a2af4d" category="list-text">*可选*：从不同类别中选择多个组件以缩小配置结果的范围。</block>
+  <block id="5869ca93f6c3b93fcee21a0770464545" category="paragraph">根据所选组件的兼容性、某些组件可能在类别中不可用。</block>
+  <block id="7212ca08c31821eeb6496edfc72d63ba" category="summary">您可以使用互操作性表工具构建跨产品的端到端兼容性视图。</block>
+  <block id="515a17a72e6cee25fbb2699551ba7700" category="doc">在产品之间建立端到端兼容性</block>
+  <block id="aadfda839bc81dc1282d85593e6e0a3c" category="paragraph">下面显示了工作流：</block>
+  <block id="6ccc9c65ba8ce434745b373d4ce23f37" category="image-alt">第17页IMT</block>
+  <block id="a8f2dd2e23ee10cc8a8bfc5da30ff0bd" category="summary">通过互操作性表工具、您可以通过选择与特定配置兼容的相关解决方案来为该配置创建端到端视图。</block>
+  <block id="4eb2dbe38d0667d97ff883758794aef2" category="doc">为选定配置创建端到端视图</block>
+  <block id="b531abe83825777dd1bd8297e14149d2" category="paragraph">通过互操作性表工具、您可以通过选择与特定配置兼容的相关解决方案来为该配置创建端到端视图。您可以使用*results*页面中的*构建端到端视图带*功能为配置创建端到端视图。</block>
+  <block id="821e75721b7400aaba452b6077fc4f9d" category="paragraph">您只能从*results*页面为特定配置创建端到端视图。</block>
+  <block id="243924ae17fabcf9e6324038cc3bd5d4" category="list-text">在特定配置的*results*页面中，单击*使用*构建端到端视图下拉列表。</block>
+  <block id="661028c95d63729eae5d9b9abe54976a" category="list-text">从下拉列表中、选择与该特定配置兼容的所需解决方案。与该特定配置不兼容的解决方案将灰显。</block>
+  <block id="2bfe745d3dacd250f9e68c48fda0cc21" category="list-text">IMT会在*results*页面中显示一个新选项卡，指示修改后的配置。根据您的要求，您可以选择使用*使用*构建端到端视图*功能添加其他解决方案，也可以导出配置。</block>
+  <block id="d3aaebbcf4e46bb4150c9e07bd28251b" category="summary">您可以组合使用组件、解决方案或类别来定义搜索条件。</block>
+  <block id="8ee38e0305ffbadeb48d844528a6e7cb" category="doc">定义并输入搜索条件</block>
+  <block id="be72c3e3e5768cf0f9e63fe8ce0ec615" category="paragraph">您可以组合使用组件、解决方案或类别来定义搜索条件。通过互操作性表工具、您可以通过添加组件、解决方案或类别来输入搜索条件。您可以使用搜索文本框、解决方案资源管理器或组件资源管理器输入搜索条件。</block>
+  <block id="454aa33e761b57fe07fceba1c97a8a1c" category="summary">您可以删除已保存的搜索条件。</block>
+  <block id="29a06b84980eab3ce920edf40d8d5109" category="doc">删除保存的条件</block>
+  <block id="c2a4313020cfae3ae79389abd1405490" category="paragraph">要删除已保存的条件、您必须知道已保存条件的名称。</block>
+  <block id="7ea38ac86619e23b998d43e9300de6f4" category="list-text">单击*Action*列下的删除图标*X*。此时将显示一个弹出窗口、询问您是否要删除已保存的条件。</block>
+  <block id="e60b7af6b78397b0ce0994c4015a587d" category="list-text">单击*Yes*以删除保存的条件。</block>
+  <block id="4df02438231eca964f432488d557b6f5" category="list-text">单击*否*以保留保存的准则。</block>
+  <block id="79726b4c9f899e56eafd4512d22caacb" category="summary">可以通过删除标记名称来删除已保存的配置。</block>
+  <block id="bf4001c078f5dca25c6479d2b9431402" category="doc">删除标记名称</block>
+  <block id="fb5a9d2c1fe276643cc1aa4fdebbd902" category="paragraph">您可以删除已保存配置的整个标记。</block>
+  <block id="4608e0dce52112ef1d1bd967e80b2d38" category="paragraph">可以通过删除标记名称来删除已保存的配置。删除标记名称后、与这些标记关联的所有配置也将被删除。</block>
+  <block id="5062ba1d716aef6e001b96cddc22ed74" category="list-text">单击*Favorites*。</block>
+  <block id="a07f03fd67353527209dd024831a83d2" category="list-text">从“*已保存准则*”对话框中，单击“*配置*”选项卡。</block>
+  <block id="972790e194f7d2d4e41a0b2a925ab4a5" category="list-text">单击*操作*列下的删除图标X。此时将显示一个弹出窗口、询问您是否要删除已保存的标记及其关联配置。</block>
+  <block id="aad967fedaa6422cd5835bf24465b610" category="list-text">单击*Yes*以删除标记及其关联配置。</block>
+  <block id="905b6080bfd6bbca59e95aff6f95cae4" category="list-text">单击*No*(否)保留标记及其关联的配置。</block>
+  <block id="3b7663c6488dd7497c4f7d3f79a8b572" category="summary">您可以编辑先前保存的已保存搜索条件。</block>
+  <block id="e1045688150584d0415262e4c5db2f62" category="doc">编辑保存的条件</block>
+  <block id="f38842a1b7f6007a12c6d273c814dadd" category="paragraph">您可以编辑先前保存的已保存搜索条件。您可以将任何新组件添加到已保存准则中、也可以从现有已保存准则中删除该组件。</block>
+  <block id="01b6291996d2daf375eb9bc01feae0e1" category="paragraph">您必须加载保存的条件才能进行编辑。</block>
+  <block id="4e102708baf37507d21f0447c94ee3bc" category="list-text">加载已保存的条件、单击已保存条件链接。</block>
+  <block id="03d162f9e1a3d030cb5f634bba50c3dc" category="list-text">单击*Refine Search Criteries*链接。您可以在已保存条件中添加或删除条件。</block>
+  <block id="8429e5c7fba655ffa4aa171da613819d" category="summary">互操作性表工具(IMT)是一款基于Web的应用程序、可用于搜索NetApp产品的兼容性和受支持的配置。</block>
+  <block id="65feb00ad7f6ce9dd8b3acfd443cba40" category="doc">了解互操作性表工具</block>
+  <block id="8d1d531715a92e9a9357a3f3a1c54f69" category="paragraph">您可以执行以下任务：</block>
+  <block id="838d52c510b3a7c971d00f7eb0b43d01" category="cell">正在使用...</block>
+  <block id="32fbba6dfc90536fe1616258f0747518" category="cell">您可以执行以下任务 ...</block>
+  <block id="7b19b37e7fc3dfe3c3e1ad5b84c7f565" category="cell">主页</block>
+  <block id="80bea2be0d3ad5e38297adac8974aa4f" category="cell">使用*简化的ONTAP SAN主机、解决方案搜索、列表和查找*以及*高级搜索*进行搜索以查看兼容性。提供了指向*培训*视频和* Active IQ互操作顾问*的直接链接。</block>
+  <block id="cf4551d7b1bd3de8dfd62bdcc6e70c2f" category="cell">简化ONTAP SAN主机</block>
+  <block id="60fbb95c37f0a079f6fa8e84e18325bf" category="cell">检查ONTAP版本和闪存/光纤存储版本组合的兼容性。</block>
+  <block id="d8214a5e3a3f89026f9e128a9947c838" category="cell">解决方案搜索</block>
+  <block id="8347ea1ca5f67e9f27579e43050128f4" category="cell">搜索解决方案并添加标准以检查兼容性。</block>
+  <block id="c1fe3261108a6e6d19adbd4b06e983ca" category="cell">列出并查找</block>
+  <block id="47dc8a6eb13d5fc80c7ddf178846b883" category="cell">了解组件在各种配置和解决方案中的使用位置。</block>
+  <block id="cd4e65d959c181a6c42b57f47e56e716" category="cell">高级搜索</block>
+  <block id="f1bc039f73889af1f8c8e3a4f6103d4d" category="cell">搜索组件并添加条件以检查兼容性。</block>
+  <block id="4ca2c509994c2776d0880357b4e8e5be" category="cell">订阅</block>
+  <block id="36fb8ca6aa944624dd0cdddb3b56d3e6" category="cell">查看您先前订阅的*存储解决方案、类别或组件*配置。</block>
+  <block id="a274f4d4670213a9045ce258c6c56b80" category="cell">通知</block>
+  <block id="9221dc792411a0ea421419adc679b8d2" category="cell">查看IMT更新通知。</block>
+  <block id="2b0c8dd29b8b84cc77b5cb3c21399a9a" category="cell">已保存搜索</block>
+  <block id="93da16e00ed47a17a22590f0fa1beb9a" category="cell">打开您先前保存的搜索。</block>
+  <block id="b79fae1e80742757dc061d411aeb4587" category="cell">找不到配置</block>
+  <block id="90015d541decc5071ffdbc3ae63cfbc2" category="cell">用于报告在IMT中找不到的配置。</block>
+  <block id="867748323b222a2e63666df4061a041b" category="cell">工具箱</block>
+  <block id="0cebc24da73d54eee7400905a4684825" category="cell">根据您作为*客户、合作伙伴或内部NetApp员工的角色访问工具。</block>
+  <block id="c91c7b93c28cd18741b71f727ee81ee3" category="cell">报告</block>
+  <block id="18c669584ed4674d6aaf2cc2085e0c43" category="cell">使用*完整每日导出*报告导出解决方案的配置，或使用*组件EOVS摘要*报告导出版本支持结束组件。</block>
+  <block id="782f86dab3644181f614dc64b9708b07" category="cell">首选项</block>
+  <block id="8d6a407792142d332c838476468f3434" category="cell">创建收藏*列表和查找*类别列表。这些类别显示在*List and Find (列表和查找)*中的*Component Explorer*(组件资源管理器)的顶部。</block>
+  <block id="6a26f548831e6a8c26bfbbd9f6ec61e0" category="cell">帮助</block>
+  <block id="21b1f67b9d532aeefe938fbfbd201669" category="inline-link">NetApp学习中心</block>
+  <block id="31c275477b920694cd24e6a1ed45d1d4" category="cell">单击“*新增功能*”查看IMT的最新发行说明。单击*联机帮助*以查看此互操作性表工具帮助集。单击*Training*要观看有关如何使用互操作性表工具的视频，请查看<block ref="a8b86e50f810c84420a9f4a1ca1c2aaf" category="inline-link-rx"></block>。要报告互操作性表工具的问题或提供反馈，请单击*报告问题*链接。单击*FAQ*可查看有关IMT的常见问题解答。单击*数据计划*(如果有)，查看计划的IMT数据库清理。单击*关于IMT *以查看版本和版权声明。单击*已知问题*以查看产品中报告的和未解决的错误。</block>
+  <block id="ebc93e917d94e9d73100eed072d35153" category="cell">请浏览</block>
+  <block id="83be70b7054326cbcc3cee029eb8165e" category="cell">查看IMT周围的导游。</block>
+  <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
+  <block id="3546181752f7fdc0791222b6f6046888" category="cell">单击以*注销* IMT。</block>
+  <block id="2500925cc553d5478036c23a243f8242" category="admonition">如果调整窗口大小、则所有页面都将响应。</block>
+  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">您可以使用导出功能从*results*页面导出配置结果。</block>
+  <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">导出配置结果</block>
+  <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">您可以使用*Export*功能从*results*页面导出配置结果。配置结果导出包含存储解决方案的详细信息、搜索条件、配置详细信息以及任何特定警报或其他信息。您可以将配置结果导出到Excel电子表格或PDF。</block>
+  <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">包含配置结果的Excel工作表的文件名格式为<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>。</block>
+  <block id="7c58248a593dd85ba9d14adda2af0325" category="list-text">在*results*页面上，您可以从*Export*下拉菜单中选择导出当前解决方案或配置的端到端视图。</block>
+  <block id="66091295deef68a4da160f714733d1ac" category="list-text">根据您的要求，单击*当前解决方案*或*端到端视图*。最多可以导出3000行。以前、您最多可以导出1000行、但此限制已增加。您应使用筛选器减少结果。您也可以使用*完成每日导出*功能来获取完整结果。</block>
+  <block id="b745f43e456fd9c2883fdd9f0d3ee707" category="list-text">您可以将Excel电子表格或PDF保存到本地计算机。</block>
+  <block id="1f5d7f61729ac0ea99e21d432126eac7" category="summary">您可以使用互操作性表工具查看与您的产品兼容的受支持主机操作系统。</block>
+  <block id="71d1e250108880b270352884440117ac" category="doc">查找适用于您的产品的兼容主机操作系统</block>
+  <block id="dfcf3d00132f60b1f9af426756af39fe" category="image-alt">第12页IMT</block>
+  <block id="1d2471da896e9e5fab480da3eb4161fb" category="summary">您可以使用互操作性表工具查看适用于您的产品的兼容Windows Server主机。</block>
+  <block id="bd3874832b029bd93d2d2f94463ef334" category="doc">查找适用于您的产品的兼容Windows Server主机</block>
+  <block id="4225b706e93edb73a4180776f639dfe7" category="image-alt">第13页IMT</block>
+  <block id="0c2d5226b127fb12ad60a887e5f266b3" category="summary">您可以使用互操作性表工具查看FCoE上Cisco UCS P81E卡等配置支持的主机操作系统。</block>
+  <block id="f701ebce5644882936dc64dd39c9e75b" category="doc">查找与HBA卡的兼容性</block>
+  <block id="cd5bfefb4f335e7277b894d20557e348" category="paragraph">借助*简化的ONTAP SAN主机*功能，用户界面被简化并精简为三个组件；早期版本的用户界面中有十三个组件。其余十个组件由NetApp隐式支持、但前提是它们受相应供应商支持。*Notes*和*Alert*按解决方案分类，并添加到每个结果中。</block>
+  <block id="c5cd5334918aca90ae81dbed3fa9af3c" category="paragraph">互操作性表工具(IMT)中支持的三个组件是ONTAP操作系统、主机操作系统和协议。</block>
+  <block id="b17081c5e9cf9e3edc7d38c568fd322d" category="paragraph">您可以使用IMT验证主机操作系统是否支持ONTAP。</block>
+  <block id="7f8e8bbc7831c49dc122632c2c03c040" category="paragraph">例如、使用以下配置验证Cisco统一计算系统(Cisco UCS)刀片式服务器是否支持ONTAP：</block>
+  <block id="903b1963227fde2db30556c33f131e19" category="paragraph">*示例Cisco UCS刀片服务器配置*</block>
+  <block id="a1b6188d218e5bddeebed696cbf3bae3" category="list-text">ONTAP OS 9.13.1</block>
+  <block id="db5c940963f3979029b7899c10d971a8" category="list-text">主机操作系统：Red Hat Enterprise Linux 9.2</block>
+  <block id="1c0367b44b8dbceb306ecc16ca826d83" category="list-text">服务器型号：Cisco UCS B200 M6刀片式服务器</block>
+  <block id="fbb66a2116e69bb488ef282fee889dcc" category="list-text">主机总线适配器(HBA)</block>
+  <block id="94feebc966033912ff0490b818801a4b" category="list-text">型号：Cisco UCSB-MLOM-40G-04：Cisco UCS 1440虚拟接口卡</block>
+  <block id="1597865539e82b0429e32ba1a84643bc" category="list-text">驱动程序版本：1.6.0.53 fnic</block>
+  <block id="7ef571fcd3081fe3d4f3281411fa4ccd" category="list-text">固件版本：5.3 (2)</block>
+  <block id="dcb8960d2f325ec47f22259068aba8c8" category="list-text">UCS服务器固件：5.2 (0)</block>
+  <block id="b7745ef6a31023a20564a3a8e4acb14c" category="list-text">协议：FCoE</block>
+  <block id="8cd6f90ffa50a2b2dfe337b908a91c7f" category="paragraph">*验证Cisco UCS刀片式服务器的可支持性*</block>
+  <block id="4a92a4cf25a34fa4eaffac25ad161bc8" category="list-text">使用IMT中的*简化ONTAP SAN主机*功能验证是否将.13.1, Red Hat ONTAP 9 9.2和FCoE协议列为受支持的配置。</block>
+  <block id="97d490040c565812e57790b753f6fb5c" category="list-text">NetApp支持的HBA供应商包括Broadcom、Marvell和Cisco。Cisco包含在支持的适配器列表中、这意味着Cisco虚拟接口卡(VIC)也受支持。</block>
+  <block id="897676d58c3f76b10936d3debb7bb161" category="list-text">使用供应商硬件兼容性列表(Hardware Compatibility List、HCL)验证Cisco "UCS硬件和软件兼容性"。如前面的服务器配置列表中所述、验证Red Hat Enterprise Linux 9.2是否支持HBA适配器型号、UCS服务器固件版本以及HBA驱动程序和固件版本。</block>
+  <block id="7353700d57c9a48ad214ff004b566fc8" category="summary">确定...</block>
+  <block id="1b86a9df2cffd5bd4c8a027852a50f51" category="doc">查找特定配置并检查产品升级或降级可支持性</block>
+  <block id="53045d2f9f252f0aa1fbe1c934b812cc" category="paragraph">您可以使用互操作性表工具查看特定配置、以便升级或降级产品配置中的组件。</block>
+  <block id="aae161f20246806ea2d8edf77f1cd2ed" category="image-alt">工作流以查看要升级或降级的特定配置</block>
+  <block id="ddb380061e50fe0b9c27047f8c07bb45" category="summary">在互操作性表工具(IMT)中、您可以通过细化搜索条件页面了解与您的产品兼容的配置。</block>
+  <block id="82625324f206dd07579432d92f280602" category="doc">使用细化搜索条件查找兼容性</block>
+  <block id="661e70dad5348cd369ab703d47b4ee48" category="paragraph">在互操作性表工具(IMT)中，*细化搜索标准*页允许您浏览与您的产品兼容的配置。您可以为您的商品搜索兼容的解决方案、组件、类别或配置。通过选择适当的组件、您可以根据需要缩小配置结果的范围。</block>
+  <block id="3e281bb9c9ea48af83b90fc55763535a" category="section-title">兼容性警告</block>
+  <block id="3089ec2ecc746b837909fb0f8891a7de" category="paragraph">如果IMT最终用户应用程序中的*Refine Search Criteries*页面上的任何组件彼此兼容，则会显示兼容性警告消息。此兼容性警告以红色突出显示并显示在页面顶部、类似于以下消息：</block>
+  <block id="2551865ad6ce7e6f5e1ec745b09203dc" category="paragraph"><block ref="e9507c6157e22dd28c8b6fe86c5c8286" prefix="" category="inline-code"></block></block>
+  <block id="5da9122ffe67411f6bb966becfc55c68" category="paragraph">如果您看到兼容性警告，请通过单击“*查看支持的配置*”链接导航到“*查看支持的配置*”页面。</block>
+  <block id="fc92c1e728dca6d51aee88f427690340" category="summary">在细化搜索条件页面中、您可以生成兼容性URL。</block>
+  <block id="5cc0277c370ca1c2d5a7d406cc3cbfbe" category="doc">生成URL</block>
+  <block id="69accc7f3e266d63fbd0e69677876cef" category="paragraph">在*Refine Search Criteries*页中，可以生成兼容性URL。您可以将生成的URL嵌入其他工具、将其上传到NetApp支持站点或通过电子邮件进行共享。生成的URL可以直接上传到浏览器中。</block>
+  <block id="f0b23f621e4092613ca29524bc68cbe3" category="list-text">在*Refine Search Criteries*页面中，选择要筛选结果的组件。</block>
+  <block id="fcd387b27a07e82e1794cf788dd97515" category="list-text">单击*生成URL*。</block>
+  <block id="fed2cbfa37c3d422304ffa67ef9fad09" category="list-text">从"URL共享"窗口复制URL。</block>
+  <block id="8ed9eb3b74971c91c758fddb1cb97292" category="list-text">单击*确定*。</block>
+  <block id="6242808d4dbdafbb3cb8ed26c467f473" category="admonition">您可以使用已生成的URL。此URL将显示您添加到搜索条件中的组件和解决方案。</block>
+  <block id="b2869ebd73bb749c2a70fb53b7fb839a" category="summary">您可以通过各种资源，文档和论坛获得帮助并查找更多信息。</block>
+  <block id="bf07f432276ee2fe7e55f9ea12c2ba5a" category="doc">获取更多信息</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="inline-link">文档</block>
+  <block id="e68bf38d69c46a5bdcb0ed45d61f1a86" category="list-text"><block ref="1e10b7111669dab6afefe8316896b856" category="inline-link-rx"></block>–此版本和先前版本的发行说明和指南。</block>
+  <block id="ce279515f15bf629655dc687c280f365" category="inline-link">YouTube上的NetApp培训</block>
+  <block id="446b148c7e08d603df3b2e6f260e2fee" category="list-text"><block ref="30896e55faaf8126310f6a705c902e48" category="inline-link-rx"></block>–NetApp视频。</block>
+  <block id="ed08ca4078374e76c6df3f1999af7274" category="inline-link">NetApp 资源</block>
+  <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block>–技术报告和知识库文章。请考虑搜索IMT。</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetApp 社区</block>
+  <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block>–NetApp产品和解决方案论坛。请考虑搜索IMT。</block>
+  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">*假设*允许您探索所有可能支持的受支持配置。</block>
+  <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">如何使用假设条件</block>
+  <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">*假设*允许您探索所有可能支持的受支持配置。您可以使用*What If*功能升级或降级选定配置中的组件并探索兼容性。要在升级或降级组件后查看所有受支持的配置，可以使用*Export*选项将配置详细信息导出到Excel工作表或PDF。</block>
+  <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">在*假设*窗口中选择要升级或降级的特定组件后，您可以查看选定组件是否与配置中的其他组件兼容，或者是否没有匹配的配置。如果没有匹配的配置、则必须考虑扩展初始条件以派生更多配置。</block>
+  <block id="3ca94b019ebcf195609637412cfbecb4" category="paragraph">“*假设”窗口分为两个窗格：</block>
+  <block id="d1a2c2e0873305b3f10930e78a06d693" category="list-text">上部窗格指示选定组件是否与任何有效配置匹配。</block>
+  <block id="3d6e9b4d2325d777a80c6ea6e8f25894" category="list-text">下部窗格显示了各种类别和相应的组件版本。</block>
+  <block id="431586057fcea1248f629ef709d196af" category="paragraph">如果找不到所需的配置，请单击*Feedback*报告问题。</block>
+  <block id="1ed0e75eff9abebaaab606a416c58707" category="inline-link-macro">报告问题</block>
+  <block id="baf93ba448f7254b708aa5fc23a8e495" category="paragraph">有关详细信息，请参见 <block ref="f96d8bc56daadf09d7c41f46d3821c84" category="inline-link-macro-rx"></block>。</block>
+  <block id="149adda509afef347898a0b709d39e7d" category="summary">NetApp互操作性表工具(IMT)是一款基于Web的应用程序。使用IMT、您可以搜索符合NetApp指定的标准和要求的NetApp产品和组件的配置。</block>
+  <block id="158b0cd8e98337e4dafd6291bed45568" category="doc">互操作性表工具概述</block>
+  <block id="37e479b45d451661f22614d5a8e413b7" category="paragraph">NetApp互操作性表工具(IMT)是一款基于Web的应用程序。使用IMT、您可以搜索符合NetApp指定的标准和要求的NetApp产品和组件的配置。IMT维护着一个配置存储库、并提供了一个用户友好的界面、便于您轻松访问受支持的配置信息。</block>
+  <block id="3b38d533805bb323909418ba2bdd311b" category="paragraph">您可以使用以下标准浏览器之一从NetApp支持站点访问IMT：</block>
+  <block id="950ec0214988f2cee4280a4a29075cf3" category="list-text">对于 Windows ：</block>
+  <block id="22b5d218c1d742f76ac7a6d9690b1bb1" category="list-text">Chrome N和N-1</block>
+  <block id="8fdfc20ed5c81ca0f5bd75843bc1899a" category="list-text">Mozilla Firefox N和N-1</block>
+  <block id="d6a3c61f34bc8dbe9c017171f37c97f8" category="admonition">n表示最新版本。</block>
+  <block id="472cd12a712c63a42fa8fb5f161318c6" category="list-text">Internet Explorer 11和Edge</block>
+  <block id="ef4abdacddb3a269e8a751b134e32921" category="list-text">对于Mac：</block>
+  <block id="afd78709ed07b4142a023acd9db8eaa6" category="list-text">Safari 8及更高版本</block>
+  <block id="1846c0f46567843e737d1a67e8731078" category="admonition">互操作性表工具可接受URL链接以及标准、以简化某些使用情形。单击其他工具中的链接以打开IMT时、您可能会进入实践页面、而不是主页、其中预先选择了解决方案和某些组件。</block>
+  <block id="7fff391a913df6fa81e6a758bd481434" category="section-title">开始使用互操作性表工具</block>
+  <block id="cb547853adc31f1f9620479aab3d8aa3" category="paragraph">互操作性表工具(IMT)是一款基于Web的应用程序、可用于搜索使用不同解决方案、配置、组件和类别的产品的兼容性。</block>
+  <block id="f2a8ac65809a63e8e3e6f626c097d1f6" category="paragraph">为便于导航和清晰起见，此工具分为三页：*输入条件*、*细化搜索条件*和*结果*。您必须在第一页上输入搜索条件。根据您的搜索条件，您可以在*Refine Search Criteries*页面中查看您的产品的兼容性。本主题将简要介绍如何使用IMT。</block>
+  <block id="5ac071492665ed1020665cc1993b0893" category="paragraph">您可以在*results*页面中查看结果。使用此工具、您可以搜索组件、进行选择、构建标准以及查看您的产品的可支持性。</block>
+  <block id="1b290eba2d0ec5102577653f0de1de81" category="paragraph">您可以完成以下任务：</block>
+  <block id="a6b3261fc23a937b32e2123b3ed6ed68" category="cell">正在使用此页面...</block>
+  <block id="6f12bd346c696b73d9091ca4f240a027" category="cell">输入条件</block>
+  <block id="0e724ecf725f7b1d5cc2242f67f9b034" category="cell">输入搜索条件并搜索解决方案、组件、配置和类别。如果您知道解决方案名称，可以使用*简化的ONTAP SAN主机*或*解决方案搜索*功能搜索解决方案。如果您知道组件名称，可以使用*列表和查找*或*高级搜索*功能搜索组件。</block>
+  <block id="cde0dc1f79281084f435d54a430ae20c" category="cell">细化搜索条件</block>
+  <block id="3f723103dfc7576cf48548094e740f8b" category="cell">查找有关您的商品的兼容解决方案、组件、配置和类别的更明确的"是"或"否"答案。您可以选择使用*更改准则*或*尝试其他方法*更改在第一页输入的初始准则。在每个类别的组件上应用筛选器、以查找最适合您的产品的配置。使用*Clear All*或*undo*图标删除应用的过滤器。</block>
+  <block id="fd69c5cf902969e6fb71d043085ddee6" category="cell">结果</block>
+  <block id="58c512e9361b60acf4f063951883775b" category="cell">单击*继续*、*&gt;*图标或第二页上的拆分器后，查看*results*页。您可以查看配置的组件、注释和历史记录详细信息、对搜索结果进行排序、查看选定的搜索条件、修改搜索条件、筛选搜索结果以及将搜索结果导出到Microsoft Excel工作表。</block>
+  <block id="86f21c73bb0c1d0d4e879859c545e31b" category="section-title">使用互操作性表工具主页</block>
+  <block id="3b5ac8d03f9f6310e122c721b88f6864" category="paragraph">通过互操作性表工具(IMT)主页，您可以使用*简化的ONTAP主机*、*解决方案搜索、列表和查找*以及*高级搜索*。</block>
+  <block id="8aa2be3c8541db53312080d6b7af39bf" category="paragraph">您可以使用*set as default*星号将其中任何选项设置为默认搜索。单击任一选项后、相关页面将打开、以浏览兼容配置。</block>
+  <block id="318d41b50563b5f3d2ab4c315f1a8613" category="admonition">要查找以前保存的搜索，可以使用*保存的搜索*菜单。如果找不到所需的配置，请单击“*找不到配置?*”菜单并报告问题。</block>
+  <block id="61227a4a707d7c445d63c926c6891462" category="summary">在开始使用互操作性表工具时、请务必了解使用工作流说明的一些常规用例。</block>
+  <block id="2a85b4097b57bbd38dd15aa7ab34a80d" category="doc">互操作性表工具搜索工作流</block>
+  <block id="d73b0da3447a7b3c3de838cc2d8f3705" category="summary">您可以从主页加载先前保存的配置。您可以查看已保存配置的标记名称、说明、解决方案名称。</block>
+  <block id="aeb4f40f23d25ac709dfd1830f05a3c6" category="doc">加载已保存的配置</block>
+  <block id="43749eb5a2d09f8f8e3529b59e2f3628" category="paragraph">您可以通过查找为特定配置指定的名称来加载该特定配置。</block>
+  <block id="d5bcfba6484fd0f51d0c051578a06c55" category="paragraph">如果您已保存配置、则可以稍后加载这些配置。</block>
+  <block id="0daf919eb8e41b5dc97a4af2ef833bf5" category="list-text">在主页上，单击*保存的搜索*选项加载保存的配置。</block>
+  <block id="a181166aa1053e21a6817485b8a62953" category="list-text">在*保存的配置*选项卡中，单击配置。</block>
+  <block id="1e72ee87bb0ae1884d33e091d24de098" category="list-text">将鼠标悬停在已保存配置上可显示配置名称。</block>
+  <block id="047c69a510c16702380165aebda65688" category="list-text">单击*Tag Name*并加载配置。</block>
+  <block id="0532f3e0c0e98b366c17c05b7808fb2d" category="list-text">单击*查看详细信息*链接转到结果页面。</block>
+  <block id="e8d00dad529b9352fc56fd8fa9796fc6" category="summary">在主页中、您可以选择搜索组件或加载先前保存的条件。</block>
+  <block id="3ad141b1cd2afe19f2415bd41fab474d" category="doc">加载保存的条件</block>
+  <block id="0005c57f76ba9e8ea662b5ef32a2de85" category="paragraph">您必须已将搜索条件保存在主页上。</block>
+  <block id="0819aa555edc864acfa72a53c486c126" category="paragraph">您可以单击*保存的搜索*以加载先前保存的所有准则。</block>
+  <block id="0dfb7116d87298f76b2e085602e4502a" category="list-text">单击第一页上的*保存的搜索*。</block>
+  <block id="21fa2b596d8adeb516e52bce39d9c334" category="list-text">单击*Criteries*或*Configuration*选项卡加载保存的准则或配置。选择条件名称后、该条件将加载到搜索条件面板中。</block>
+  <block id="1efc14e81baa9059e46f78473ef543aa" category="summary">从"细化搜索条件"页面中、您可以选择修改搜索条件、以便将解决方案、组件或类别添加到条件中。</block>
+  <block id="1dc11ad6ca9ec5fdcdb1a9cf379f5504" category="doc">修改搜索条件</block>
+  <block id="ce17a27bd8d11f30bd723bd5b488d63e" category="paragraph">在*Refine Search Criteries*页中，您可以选择修改搜索条件，以便将解决方案、组件或类别添加到条件中。</block>
+  <block id="ae5a975594bcd4ddf1dfd63c649f56d2" category="list-text">在*细化搜索准则*页中，单击*更改准则*。</block>
+  <block id="e0636dc5974ea34440665a409c5f15e1" category="list-text">在搜索条件页面中、您可以使用搜索文本框添加解决方案、组件或类别。</block>
+  <block id="1697e862953ccbbd56111e77eb57c685" category="list-text">单击*Next*，在*Refine Search Criteries*页中查看兼容配置。</block>
+  <block id="1463523d7e5042eac98a0ddebe5aa86c" category="summary">使用互操作性表工具(IMT)主页上的卡片执行常见搜索、包括简化的ONTAP SAN主机、解决方案搜索、列表和查找以及高级搜索。</block>
+  <block id="3bdc568a8bcd812e1b8ceca566581918" category="doc">执行常见搜索</block>
+  <block id="3af0043e9a42dbcb3994fe0a434a71ce" category="paragraph">使用互操作性表工具(IMT)主页上的卡执行常见搜索，包括*简化ONTAP主机*、*解决方案搜索*、*列表和查找*以及*高级搜索*。</block>
+  <block id="d067ad360948d10f2d780f075697e18f" category="paragraph">打开IMT时、您会在主页上看到最常见的搜索类型：</block>
+  <block id="d502b8e07d27fad00c4965d4647db3a2" category="list-text">*简化的ONTAP SAN主机*</block>
+  <block id="3fd79e93f13415c1bdd8b5549bbcaa6b" category="list-text">*解决方案搜索*</block>
+  <block id="74152f0f0743d856ced77dc3f2335ebd" category="list-text">*列出并查找*</block>
+  <block id="f5167a76744a057734881839f6024df8" category="list-text">*高级搜索*</block>
+  <block id="06d26363632e23515632763b195365bf" category="inline-link">培训视频</block>
+  <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQ顾问</block>
+  <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">您也可以从主页观看<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block>或打开<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>。</block>
+  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">通过互操作性表工具，您可以从*Refine Search Criteries*页面浏览与您的产品兼容的配置。</block>
+  <block id="784e74992af3834f944fb515f4448bba" category="doc">精炼搜索条件页面以验证兼容性</block>
+  <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">通过互操作性表工具，您可以从*Refine Search Criteries*页面浏览与您的产品兼容的配置。您可以将此页面中的配置结果缩小到您的产品所需的配置。</block>
+  <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">只有当您输入的条件具有受支持的配置时，您才能从初始搜索条件页面导航到*Refine Search Criteries*页面。“*细化搜索条件*”页面分为两个窗格：</block>
+  <block id="bff3de2c9fbca70fdd304c24e0c96f1e" category="list-text">*搜索条件*：显示添加到搜索条件中的解决方案、组件和筛选器。您可以修改初始搜索条件以查看所需的配置结果。您可以选中*Change Criteries*返回到*Search Criteries*页并修改初始搜索条件。您可以选中*动态过滤*选项卡，立即查看组件之间的兼容性。您可以取消选中*Dynamic Filtering*选项卡以将多个组件添加到一起，然后单击*Update*计数。您可以选中*尝试其他方法*选项卡以导航到主页。</block>
+  <block id="47e9518e04b7d57a34263f7892c863b8" category="list-text">*细化搜索条件*：显示不同类别下的组件列表。此窗格中列出的类别取决于搜索条件和兼容配置。</block>
+  <block id="38d79dd1e98099e8c66985ea5676f993" category="list-text">如果在初始搜索条件中包含了解决方案，则可以在“细化*Search Criteries*”页面上从该特定类别中选择组件，以及从其他类别中选择组件。</block>
+  <block id="6cce0a2ed9251b55e6bfda158c667384" category="list-text">如果在初始搜索条件中包含了特定组件，则不能在*Refine Search Criteries*页上取消选择初始搜索条件中包含的组件，但可以从其他类别中选择其他组件。</block>
+  <block id="8ab8467c478df9b1a8aceed1245a2d66" category="paragraph">在每个类别中、您可以使用筛选器图标显示搜索文本框并搜索特定组件。如果要重置或清除“*搜索准则*”窗格中的组件选择，请单击*Clear All*。</block>
+  <block id="3da77797c976f88886e4bcf4b163ecb0" category="paragraph">根据您从不同类别中选择的组件、您会发现配置结果的数量可能会有所不同。您选择的组件越多、互操作性表工具越能缩小搜索结果范围、使您可以查看产品所需的配置。</block>
+  <block id="df2c00b46ef9ba19741e02e6a0b37e63" category="summary">您可以删除或更新不需要的已保存配置。</block>
+  <block id="586536c712502532cd5e34785e9b1c25" category="doc">从已保存标记中删除配置</block>
+  <block id="961c8e5340cb5778c5805a50326242e5" category="paragraph">如果您已从结果中保存配置、则可以删除不再需要的配置以供参考。</block>
+  <block id="03702cd77bb84e389813d7ad6b0a61cd" category="list-text">单击黄色星号图标以删除或更新已保存的配置。</block>
+  <block id="6bb5550ec20db2972bec2a14c98b4334" category="list-text">单击*Remove*以删除保存的配置。单击弹出窗口中的删除按钮后、星号图标将从黄色变为白色。</block>
+  <block id="e1166f794cd554e4bb0519d72e4ac49c" category="summary">如果遇到问题、您可以将问题报告给支持和反馈团队。</block>
+  <block id="c9be257d441fc3cc4d51ae5752c6e9a1" category="paragraph">如果遇到问题，您可以使用“*报告问题*”功能将问题报告给支持和反馈团队。</block>
+  <block id="c7a90011ec4e77f58a2cac82e14e9ff6" category="summary">您可以保存最近的搜索、以保留条件供以后搜索使用。</block>
+  <block id="54920763a7a968a65321a00d66b3acc3" category="doc">保存最近的搜索</block>
+  <block id="f3422b785e2576499ec1f1f61c205db5" category="paragraph">在Welcome to the IMT页面中、您可以保存最近的搜索、以保留条件供以后搜索使用。</block>
+  <block id="c20fd47018c862a7451d053362dbf161" category="list-text">单击解决方案搜索或高级搜索。</block>
+  <block id="41560cf107c4abdd66a9c07e7023edb3" category="list-text">选择搜索条件。</block>
+  <block id="8debc2e41568eb8094071b5fa349e738" category="list-text">选择Skip to Results (跳到结果)或单击Next (下一步)以细化搜索条件、然后导航到View Supported Configurations (Results)(查看支持的配置(结果))页面。</block>
+  <block id="a7ed4616aab31f1b8a77e3e48b8a7082" category="paragraph">此时将显示一个弹出对话框、通知您您准则已自动保存。</block>
+  <block id="f79de03d41d30156ddeeeeb88d64f5c6" category="summary">您可以使用*保存的搜索*菜单加载不同的解决方案或配置，该菜单可用于导航到以前保存的搜索结果、最近的搜索结果和保存的配置。</block>
+  <block id="bafb5d5d68032f0cd01cfbc25237cbaa" category="doc">已保存搜索功能</block>
+  <block id="fcc9eb63d6626293c9d2af5d47a3694c" category="paragraph">“*搜索准则*”选项卡包含保存的搜索。在此选项卡上、您可以共享搜索或查看其他人与您共享的搜索。“*配置*”选项卡用于保存已保存的配置。在此选项卡上、您可以共享配置或查看其他人与您共享的配置。</block>
+  <block id="bf7484feef7ef313fd098d9c643450f4" category="paragraph">“最近搜索”选项卡包含最后30组搜索条件，从最近到最早。它还列出了表示发起页面的*搜索流*，可以是*列表和查找、解决方案资源管理器或高级搜索*。系统会自动保存条件。此页面还列出了已保存或最近搜索的*上次修改日期*。您可以*加载*从列表中搜索以分别查看条件或配置。</block>
+  <block id="8a697a78ea03392a1de668f9f7640de2" category="summary">您可以与其他用户共享您的条件。</block>
+  <block id="40100e04c6c8b66e6166b86ca1223ad1" category="doc">与其他用户共享的已保存搜索条件</block>
+  <block id="d223a67d6761207bc0016c62152b8f78" category="paragraph">从*细化搜索准则*页，您可以与其他用户共享*保存的搜索*准则。</block>
+  <block id="1afa3fab843060f56d47cf8e18d47c26" category="paragraph">以下是保存和共享搜索条件的三种不同方法：</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
+  <block id="0917c609dcc1133b4b04893020ce5a9b" category="list-text"><block ref="e1d20b7c5345a1ca0d4ca5f18c411088" category="inline-xref-macro-rx"></block></block>
+  <block id="7c8ad1f0e7393914bfd5bf3ef0aaa84e" category="list-text"><block ref="aa46c9ec17ec30bac8d2ba8aea4ef2b6" category="inline-xref-macro-rx"></block></block>
+  <block id="9b8d12df1814ba93968722bee2e2f7e6" category="list-text"><block ref="47f7ecc698c18cacae02465134f07565" category="inline-xref-macro-rx"></block></block>
+  <block id="2395aac43a3b28bcb3d86f1fb63899d8" category="section-title">在保存时共享条件</block>
+  <block id="9575e98463c6debdaed1c1ef1328f491" category="paragraph">在精炼搜索条件页面中、您可以在保存时共享搜索条件。</block>
+  <block id="eb3a12b537be06f2f69e9ada2353baeb" category="paragraph">您必须在第一页上添加解决方案和组件、才能在保存时共享条件。</block>
+  <block id="d8e1a3e23e5ec1845d9c99d468966be7" category="list-text">选中共享复选框以共享保存的搜索条件。</block>
+  <block id="60a8990ca87e2fd3f76ab563a9551c78" category="list-text">在文本框中输入用户名以进行用户搜索、然后单击添加用户。</block>
+  <block id="df4719a8986d0ca8627a45e5b2a46e04" category="admonition">如果用户名不存在、则会显示验证消息。</block>
+  <block id="5925a1c0e312b718d3d78bbe35c3d49e" category="list-text">您可以在使用搜索用户选项时进行查找、并提交到共享条件。</block>
+  <block id="7426996286810ff9613244c7edeaf999" category="section-title">保存后共享条件</block>
+  <block id="9c0d2a5e2b8b6136baed97a7f63f0097" category="paragraph">在精炼搜索条件页面中、您可以在保存后共享搜索条件。</block>
+  <block id="b65245bdf543a38aa3b148a2330dbb3a" category="paragraph">您必须在第一页上添加已保存的搜索解决方案和组件、才能在保存后共享条件。</block>
+  <block id="a2885b4d6eff311636d00f627324f01c" category="list-text">单击主页中的已保存搜索选项。</block>
+  <block id="ff7f0220f271c42b464d84ad28453440" category="list-text">单击"共享"以与其他人共享条件。</block>
+  <block id="4cfc06fd58e7f0e2aa1b8f124813ae71" category="list-text">在文本框中输入用户名以搜索用户、然后单击提交。</block>
+  <block id="2254b563c52fa08bf51259ad3a808829" category="section-title">查看共享条件</block>
+  <block id="b8e28d04f87c426f5de7c9ef4f56a09e" category="paragraph">您必须将解决方案和组件保存在已保存搜索中。</block>
+  <block id="5b7571e534ed46d4ca528df1d1715a72" category="list-text">您可以通过将已保存搜索选项设置为默认值来查看与其他用户共享的条件。</block>
+  <block id="441a74be085e88436fc75c069f505a3d" category="list-text">从共享者列中选择用户名以查看共享条件。</block>
+  <block id="7af3734b7440460bde586b702e40dc8c" category="list-text">系统将向共享用户发送一封电子邮件通知、以通知共享情况。</block>
+  <block id="cca1a017c6fe62d07caed34a55735170" category="admonition">对原始评级标准的更新将不会影响共享的评级标准。它们被视为单独的实体。</block>
+  <block id="18713831a09c5c7f97239a674295ac2b" category="doc">保存最近的搜索</block>
+  <block id="43ce49852967977e02b10f118f2140e2" category="list-text">单击*解决方案搜索*或*高级搜索*。</block>
+  <block id="e93c73fa13a2ee15f1e9b6e8d28873d8" category="list-text">选择*跳到结果*或单击*下一步*以细化搜索条件，然后导航到*查看支持的配置*(结果)页面。此时将显示一个弹出对话框、通知您您准则已自动保存。</block>
+  <block id="bdfeda4bcd0bfa637e60d6c5fe2b25b5" category="summary">您可以使用您选择的任何名称保存特定解决方案的配置。</block>
+  <block id="cf565402d32b79d33f626252949a6941" category="doc">保存配置</block>
+  <block id="09121540463fb871c274bbceeedeb725" category="paragraph">您可以使用您选择的任何名称保存特定解决方案的配置。这有助于您稍后检索配置、而无需记住复杂的配置ID。</block>
+  <block id="ffe82760f5b16eb2eab68ba09dbf68c2" category="paragraph">您可以稍后通过查找指定的名称来轻松检索所需的配置。</block>
+  <block id="e2999eb17be3afc60649f822e6018954" category="paragraph">如果要稍后引用配置、可以使用您选择的任何名称保存配置。</block>
+  <block id="6808587d16f321260a9d307bdfcad9e7" category="list-text">在*results*页面中，单击星号保存配置。保存配置后、星形将变为黄色。最多可以保存20个配置。</block>
+  <block id="840cd922c8d96b582780e1afb3986579" category="list-text">在*Tag Configuration*对话框中，输入名称和说明，将配置添加为书签以供参考。保存的配置名称将显示在配置详细信息链接上。您可以将多个配置添加到特定标记。一个标签是单个解决方案所特有的。不同用户可以使用相同的标记名称。</block>
+  <block id="8a8179dcbfdb34614a07f6a3ab8767dc" category="list-text">从下拉箭头中选择标记名称、将配置添加到已保存的选项卡。</block>
+  <block id="3f2d805e8c14e765c1ddc7588aa0af74" category="summary">在"细化搜索条件"页面上、您可以选择保存或更新搜索条件、以便日后检索。</block>
+  <block id="7cf37abfb86f13e7881ba7f0ee929775" category="doc">保存搜索条件</block>
+  <block id="69bd39b27396c460de7dffde002b3a4f" category="paragraph">在*Refine Search Criteries*页上，您可以选择保存或更新搜索条件，以便以后检索。</block>
+  <block id="24bb7af209fc829bb1f38a2b1bbbcf02" category="paragraph">您必须已在第一页上添加解决方案和组件、才能保存条件以供将来参考。</block>
+  <block id="e12e456faab15986ce687ca283dfee9a" category="list-text">单击*细化搜索准则*页上的*保存准则*。</block>
+  <block id="c3511a2a75c145a073031ce67b4cde18" category="list-text">输入*Criteria Name*并在*Description*字段中添加信息。“*标准名称”可以是字母数字，最多可以添加20个字符。“*Description*”字段最多可包含100个字母数字字符。互操作性表工具不允许在保存条件中使用重复名称。*标准名称*为必填项。</block>
+  <block id="394f358d6e8000897e7a01a4f208e59c" category="list-text">单击*Update Criteries*以添加要包含在保存的条件中的过滤器或标准。</block>
+  <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">单击 * 保存 * 。保存准则后，*保存准则*链接将更改为*更新准则*。最多可以保存10个搜索条件。</block>
+  <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">单击*保存的搜索*时，将显示*保存的条件*弹出窗口。“*最近搜索*”选项卡显示最近的搜索。</block>
+  <block id="d449eb38510b44904f1a170873f49309" category="paragraph">最近保存的每个搜索都通过其时间戳进行唯一标识。您可以单击时间戳转到*细化搜索标准*页面。</block>
+  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">您可以使用*结果*页面中的假设条件功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。</block>
+  <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">选择要升级或降级的组件</block>
+  <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">您可以使用*results*页面中的*What If*功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。</block>
+  <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">单击*What If*以查看可升级或降级以修改选定配置的组件。</block>
+  <block id="feebe9eaa17ff80987d6eb3d371add59" category="list-text">单击某个类别可查看可升级或降级的组件。</block>
+  <block id="b8d80b74292e31d238a66820c48de737" category="list-text">在可用选项窗口中、您可以搜索并选择特定组件版本。</block>
+  <block id="d2744c2316440720f728725fd2656a4e" category="list-text">如果选定组件是有效配置且与先前的配置兼容、则会显示兼容性消息。现在、您可以导出结果以查看所有受支持的配置。</block>
+  <block id="8b6ae4b6bac8d1c26b12c08daa8236bb" category="summary">您可以查看和下载Excel或PDF版本的解决方案报告。</block>
+  <block id="431bda3fd1123e74a18c1b2f404f7e3e" category="doc">解决方案报告</block>
+  <block id="999cd51a83c0715733614645b09d0112" category="paragraph">您可以使用*报告&gt;完成每日导出*功能查看和下载Excel或PDF版本的解决方案报告。您还可以下载Excel版的*组件EOVS摘要*，其中列出了已停止版本支持的组件。</block>
+  <block id="813c39388e3ea4a4a2178b06f3abbd5f" category="summary">您可以订阅您选择的单个或多个类别。</block>
+  <block id="f275139dd1477a6116bca7a603350e57" category="doc">订阅类别</block>
+  <block id="459458724e11ff0e5c0c5226c14171c0" category="paragraph">在类别中添加或删除组件时、您将收到电子邮件通知。</block>
+  <block id="3577e45092be56ad7e64ba9b429c5705" category="list-text">单击标题菜单中的*订阅*链接。</block>
+  <block id="55f6cfca3d425decf96d896fa7580ab1" category="list-text">在订阅窗口中，选择*Category (类别)*选项卡。</block>
+  <block id="7d96920540505974c713c982d17d0686" category="list-text">对于您选择的类别、选中添加或删除的组件选项对应的复选框。</block>
+  <block id="214df4595fc1ae4002445d2e3d07b390" category="list-text">在*频率*字段中，选择*立即*或*摘要*。</block>
+  <block id="7b3ef14ab163be72192be9a5252bd234" category="admonition">默认选择为*立即*。</block>
+  <block id="1c7eecc0e0946fba660b6c6a82700369" category="list-text">单击*subscribe*以获取您已订阅的类别的订阅。</block>
+  <block id="41a8e722844ed7656085dd96bbb0d312" category="admonition">您可以单击*Reset (重置)*清除类别选项卡中的所有选择。</block>
+  <block id="8cdb27b864d6e06976dc6261cd18bb5b" category="summary">您可以订阅您选择的单个或多个组件。</block>
+  <block id="508fbbd790f857127c9155f0724c240d" category="doc">订阅组件</block>
+  <block id="e81ebc26abd04b71d90173320c78d4dd" category="paragraph">在组件的显示名称或组件状态发生更改时、您将收到电子邮件通知。</block>
+  <block id="574e15debf5778641af59391da9500fe" category="list-text">在订阅窗口中，选择*Component*选项卡。</block>
+  <block id="01c10d345f044c7f18be37263c5baeed" category="list-text">要订阅所选的组件，请选中*Attributesupdated (属性已更新)*选项的复选框。</block>
+  <block id="272cade40d7e9076a3e79ba7ae5d07a3" category="list-text">单击*subscribe*以获取您已订阅的组件的订阅。</block>
+  <block id="7f69ab239a1b8ebd84d3729fe9a802fe" category="admonition">您可以单击*Reset (重置)*清除*Component*(组件)选项卡中的所有选择。</block>
+  <block id="e1e7614f94499f2aca20f63a15fb39e0" category="summary">您可以为特定解决方案或组件订阅具有您选择的任何名称的配置。</block>
+  <block id="8c5e710b463aebcc3607a3e16a62d378" category="doc">订阅配置</block>
+  <block id="4b08176137b02874d2675f566ef9dbec" category="paragraph">您可以为特定解决方案或组件订阅具有您选择的任何名称的配置。这有助于在订阅行中有更新或更改时通过电子邮件接收更新。您最多可以订阅20个配置。</block>
+  <block id="1f44a59ac278476eb9645e196a6b1af6" category="paragraph">您可以收到以下实例的电子邮件：</block>
+  <block id="873da3c1506651d4830f2fe6fd1198a9" category="list-text">将组件添加到配置时</block>
+  <block id="87955c5cf2df63e6bef81a8605eb9c3e" category="list-text">从配置中删除组件时</block>
+  <block id="6b764f9ef0a98a99bcca8f397c582829" category="list-text">在配置中添加或删除注释时</block>
+  <block id="2066131a3ad142dcaccc1edc38957728" category="list-text">当配置状态从支持更改为任何其他终端状态(EOS、已废弃等)时。</block>
+  <block id="833cb41c65cebd1adbd9cdfe76fe47af" category="list-text">在*Tag Configuration*对话框中，输入名称和说明，将配置添加为书签以供参考。</block>
+  <block id="0853005568038530d17f8b473aa83d18" category="list-text">单击*订阅*此配置复选框。</block>
+  <block id="336179b864dd55354e8b20409f39c675" category="list-text">单击*Tag*。</block>
+  <block id="a0ffe02c554c55c787a11d9720938449" category="summary">您可以订阅您选择的单个或多个存储解决方案、类别或组件。</block>
+  <block id="4dfece803af058364e1f077c76d10645" category="doc">订阅存储解决方案、类别或组件</block>
+  <block id="588de430ceae787096fad95acc7e45fc" category="paragraph">*订阅*选项卡允许您订阅以下订阅：</block>
+  <block id="54cbeb8988d779c80f3bfdeaf257380e" category="list-text">订阅存储解决方案</block>
+  <block id="a3038ba6a940fdf1b2dba20f347ea7ec" category="list-text">正在订阅类别</block>
+  <block id="5d0937f99cb4eacba4b6cd45fbdf78e2" category="list-text">订阅组件</block>
+  <block id="a62824c4f47fa0da7d944f92c36e0d73" category="summary">您可以订阅您选择的单个或多个存储解决方案。</block>
+  <block id="c200e8439b397b7e65939a7feab229e0" category="doc">订阅存储解决方案</block>
+  <block id="2d6152b89ad002d7fcc2cfe8ceef2c4c" category="paragraph">两种类型的订阅如下：</block>
+  <block id="461cc16dc1432fa6d10fa88f7778f4b0" category="list-text">*立即*：如果订阅的解决方案发生任何更改、您将立即收到一封电子邮件。</block>
+  <block id="0215d3bb71b13ee4534fa20733a7ef47" category="list-text">*摘要*：您将在七天内收到一封累积的电子邮件，其中反映了对订阅解决方案所做的所有更改。</block>
+  <block id="bb15c131ac9fd6083c71a0d91e6bd2ef" category="list-text">在*订阅*窗口中，选择*存储解决方案*选项卡。</block>
+  <block id="2dd900b3e88533d0a191c1e12f347a6a" category="list-text">对于您选择的存储解决方案，请选中“*解决方案状态更新”、“关联或解除关联的类别”或“已添加或已删除的配置”选项的复选框。</block>
+  <block id="6ce8ddc7f15b5911c3e6ea44a5a0c155" category="paragraph">在以下情况下、您将收到电子邮件：</block>
+  <block id="7c5f6302701612ddd3eb7b943612c3ed" category="list-text">解决方案的状态发生更改或更新时。</block>
+  <block id="08ab5ebeb1193b28045b328e8e62bdbd" category="list-text">在解决方案中添加或删除某些类别时</block>
+  <block id="bfc3ceef09d090d222b0f1b4ca5fbe9a" category="list-text">在解决方案中添加或删除某些配置时</block>
+  <block id="913efce424822314257e798b0558a5bd" category="list-text">在*频率*字段中，选择*立即*或*摘要*。</block>
+  <block id="67efe4e7df356a0e984d0b7528d0ce52" category="list-text">单击*subscribe*以订阅您选择的解决方案。</block>
+  <block id="4f8a359ff75a95d3060e02c255c77059" category="admonition">您可以单击*Reset (重置)*清除*Storage Solution (存储解决方案)*选项卡中的所有选择。</block>
+  <block id="ba07bc773ce0f918b1eefce047245719" category="summary">通过互操作性表工具(IMT)、您可以轻松查看受支持配置的结果。</block>
+  <block id="0769ff8c1f83c91c3b16b9ce2775faab" category="doc">支持的配置搜索</block>
+  <block id="a85654fdf83648d3d156ca9b589151ef" category="paragraph">通过互操作性表工具(IMT)、您可以轻松查看受支持配置的结果。您可以执行多项任务、例如修改、筛选或导出结果以及查看或修改搜索条件。</block>
+  <block id="125196a9553cb7d66c81efa5b9955299" category="paragraph">在*results*页面中，IMT会根据您输入的搜索条件显示多个受支持的配置。您可以通过单击配置名称或ID (例如20150202-204717518)来查看特定配置的完整配置详细信息。</block>
+  <block id="eff88d54854b0637031f4066736623bc" category="cell">字段名称</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">说明</block>
+  <block id="1d1072a665cbd7dce3a24d1d65d8841e" category="cell">跳至结果</block>
+  <block id="c02f6ac7ed2ef03115324db2d2969b64" category="cell">允许您跳过*细化搜索标准*页面并直接转到*结果*页面。</block>
+  <block id="5599cdd55ff94796811f21712663c422" category="cell">配置名称或ID</block>
+  <block id="e299f86d07766b826feb2bdd501107f4" category="cell">配置名称或ID是分配给特定配置的唯一标识符。您可以单击配置名称以查看所有配置详细信息。此时将显示配置状态以及配置名称。</block>
+  <block id="3ec365dd533ddb7ef3d1c111186ce872" category="cell">详细信息</block>
+  <block id="18db45df0ae63dc08635ce638e77dcd7" category="cell">提供有关特定配置的兼容组件和类别的信息。</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="cell">警报</block>
+  <block id="16376cb8d4986c15fde7c163e711c21e" category="cell">提供有关配置的重要信息；例如发行说明、部署信息、建议等。</block>
+  <block id="4059b0251f66a18cb56f544728796875" category="cell">信息</block>
+  <block id="0a6af34dc2bd480d3ef1ded69dfa5798" category="cell">提供有关配置的其他信息。</block>
+  <block id="16d2b386b2034b9488996466aaae0b57" category="cell">历史记录</block>
+  <block id="3456dcddae33c9d9fbce081495426626" category="cell">提供配置内容的历史记录。添加详细信息时、配置内容会以绿色突出显示；更新详细信息时、配置内容会以蓝色突出显示；删除详细信息时、配置内容会以红色加划线标记；如果详细信息未发生更改、则配置内容会以黑色突出显示。</block>
+  <block id="8a4eba6be6fe9fbed9197dec9246211f" category="cell">使用构建端到端视图</block>
+  <block id="cc9cac1dbf04eaad7c07a7d71788b5b4" category="cell">允许您通过选择与选定配置兼容的相关解决方案来构建端到端视图。</block>
+  <block id="2e80766098eb34af82b93df208cfbcbe" category="cell">假设情况</block>
+  <block id="b469ddc1b2bad5148648fe1d17486519" category="cell">用于升级或降级选定配置中的组件。</block>
+  <block id="13dba24862cf9128167a59100e154c8d" category="cell">打印</block>
+  <block id="68d5b3fc11e857e1c32f584c3efdd0f2" category="cell">用于打印配置详细信息。</block>
+  <block id="3c9681e304578d72f4fcc717594acf97" category="cell">策略和准则</block>
+  <block id="c7ac661a5b30b8b33e41f7666cf83630" category="cell">有助于您详细了解适用于选定配置的策略和准则。如果在策略和准则中添加了任何新的更改、则这些更改将以黄色突出显示、并且有效期为30天。如果删除了任何策略和准则、则所做的更改将被删除。如果*政策和准则*字段有任何变化，将以红色的"新"图标表示。</block>
+  <block id="d7778d0c64b6ba21494c97f77a66885a" category="cell">筛选器</block>
+  <block id="e2b5aa4cc556e932a2044c610346bd30" category="cell">通过在*上次修改时间介于*和*和*之间*字段中提供适当的日期范围，您可以搜索在特定时间段内修改的配置。</block>
+  <block id="f4c6f851b00d5518bf888815de279aba" category="cell">备注</block>
+  <block id="91d772a9c635e8c0866aee344754c015" category="cell">提供与配置关联的注释。</block>
+  <block id="d92a232846a2b6f240bb2eb35c9f7bb4" category="cell">行比较</block>
+  <block id="3327f21bfe91c3080746e524d208e283" category="cell">用于将两行与配置进行比较。</block>
+  <block id="21b23c6fe7af0b50eee0642047379d4d" category="paragraph">此时将显示搜索结果以及每个结果的配置详细信息。搜索结果中的每行都会显示属于当前选定存储解决方案的配置的详细信息。处于*End of Support*状态的配置行显示为灰色，配置名称旁边的状态显示为*EOS*或*PVR*。</block>
+  <block id="b8d3d6fd3dd366569b26adf45da258c1" category="summary">通过Active IQ互操作性顾问工具、您可以在使用特定条件进行搜索时生成兼容性报告。</block>
+  <block id="745011275a4b527af05f38dd17f2dfa5" category="doc">用于确定兼容性的Active IQ互操作顾问工具</block>
+  <block id="2abe1b0b799ea6958ab05808dfd2e6f0" category="paragraph">使用* Active IQ互操作顾问*工具可以在使用特定条件进行搜索时生成兼容性报告。</block>
+  <block id="4b95bd73f371d633944b277ea2f8940d" category="paragraph">您可以按以下任一条件进行搜索：</block>
+  <block id="3460276ef9eb483d13aa31b870077a0d" category="list-text">序列号</block>
+  <block id="c13733ab0cde1d7164208b013c7e85db" category="list-text">集群ID</block>
+  <block id="9c88708a39e1e0d0de41fff6604be2e0" category="list-text">OneCollect作业ID</block>
+  <block id="ac602ad780aa2599010cea917dea5c94" category="paragraph">您可以在*MyAutoSupport*中找到以前的搜索条件信息。</block>
+  <block id="5005324a60c28050430af25f8b9d4f52" category="summary">“*工具箱*”选项卡显示了一个有用的工具列表，这些工具分为三个用户类别。每个工具都会显示一个链接。</block>
+  <block id="67414857279fd728c96de6f66ce60dcc" category="doc">工具箱中可用的工具</block>
+  <block id="e6d0e1c8fc6a4fcf47869df87e04cd88" category="list-text">客户</block>
+  <block id="b5fe3a41d32647f20f3b5ec96045d6d6" category="list-text">Active IQ</block>
+  <block id="f9be17421d77a57baae245776004d9fc" category="list-text">Config Advisor</block>
+  <block id="5fb5241db38fadaca7a0d40dbe186627" category="list-text">ConfigEdge</block>
+  <block id="da160308e3b4b4a80bf1b72b5bdbedb8" category="list-text">Hardware Universe</block>
+  <block id="c1e384c5e7f936ddf073862dee019398" category="list-text">Active IQ互操作顾问</block>
+  <block id="b52e062fbdeb6bb20fccb9392805ce05" category="list-text">NetApp公共网站</block>
+  <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="list-text">NetApp 支持站点</block>
+  <block id="ff331388ea55619596bcb6cf3a003112" category="list-text">一个收集</block>
+  <block id="922127e17a743afad1354adff731960d" category="list-text">统一的Parser</block>
+  <block id="fd6df34ee4e7642c02ced6012028f6b8" category="list-text">合作伙伴</block>
+  <block id="1b3537665f74d77bd14a7f35ea69a8f6" category="list-text">Field Portal</block>
+  <block id="1f18043048963944d416269d09c9fece" category="list-text">LatX</block>
+  <block id="600a7a2d38e685027888b112c9f09cfa" category="list-text">QuoteEdge</block>
+  <block id="c73fb565aacaf9d4d138b982953a3cf9" category="list-text">SmartSolve</block>
+  <block id="b657a86dd93f1cc3153d34c28b3f330a" category="list-text">Synergy</block>
+  <block id="e21a868bc0bf8e20cba1dc01e82dfb89" category="list-text">System Performance模式</block>
+  <block id="38dd88763ce898bd0065e24b9d906e36" category="list-text">技术更新工具</block>
+  <block id="5bd24680ba49ea2dbc7fa31ac43b9d75" category="list-text">NetApp内部</block>
+  <block id="657fd3eec6624217c3ad5de3744a69d2" category="list-text">敏睿</block>
+  <block id="0fe4758d380c457915385cf7f8364526" category="list-text">BURT (BURT)</block>
+  <block id="d0aaf413ea3c98b4488b0e80e2c716f1" category="list-text">EPIC</block>
+  <block id="e8b07ff317b9395c4210e4e6ee15527f" category="summary">您应了解一些常见的互操作性表工具问题。</block>
+  <block id="374b1a86c0f09e71f4c247c57dd5f81f" category="doc">对互操作性表工具问题进行故障排除</block>
+  <block id="2d9d499f457f866cd4e692bee7369005" category="cell">问题</block>
+  <block id="7aebfa1e2291377e040de92d7f7f335f" category="cell">临时解决策</block>
+  <block id="4dfc53f36e1dec65c3576bb6b48febca" category="cell">无法加载互操作性表工具</block>
+  <block id="5f18bf7ed82966c701b57fd41f1a8c22" category="cell">您必须清除浏览器缓存、打开新浏览器并尝试登录到IMT。</block>
+  <block id="40b92c888e8f1d617bc09b10b894a451" category="cell">互操作性表工具挂起</block>
+  <block id="792f55b978d1fab7a11ede6fa50164cb" category="cell">这可能是网络问题、您可以尝试刷新浏览器。</block>
+  <block id="27bf486ce5cb0beff0bce7164447f6a7" category="cell">PI不推断所需的解决方案</block>
+  <block id="6bcad9cdb3be41e28c3647d3b2deac6b" category="cell">您必须从*解决方案目录*中选择适当的解决方案或选择特定组件。</block>
+  <block id="80a46d3b103de0b023943c2edf7d89f1" category="cell">无法在*Refine Search Criteries*中为HBA配置选择不同的属性</block>
+  <block id="ccdaa17cccad4599b2f73f46abdd3db4" category="cell">您必须取消选中HBA组件并选择一个属性。</block>
+  <block id="4caf9ed28a5d7ce495d04434581b152b" category="cell">每日报告生成显示404错误</block>
+  <block id="2fb40b8b208e17a91e19f13912277b9e" category="cell">每日cron作业在太平洋标准时间22：00小时运行、持续30分钟、报告将不可用。</block>
+  <block id="18131773929f49e2d03333f846c8e8a9" category="cell">首次登录到互操作性表工具时、登录身份验证失败</block>
+  <block id="149b94e6c8c151a358440f89c8a75489" category="cell">您必须同步互操作性表工具的登录凭据。</block>
+  <block id="5ed3de7b6fcc4e15088e26acd0937748" category="cell">不会显示新添加的组件</block>
+  <block id="1319886e6d57f98ad8e8110beef9a17d" category="cell">等待四小时；组件将自动更新。</block>
+  <block id="70602a38ac0f4b98c770a6caae0aaf3a" category="summary">通过互操作性表工具、您可以查看和导出符合要求的配置的结果。</block>
+  <block id="60e7014e789de3f60ea4e17d64bb01b7" category="doc">了解并使用互操作性表工具结果</block>
+  <block id="b3583cd3c6ad27ace3e6abce443badd1" category="paragraph">通过互操作性表工具、您可以查看和导出符合要求的配置的结果。在*results*页面中，您可以通过选择与选定配置兼容的相关解决方案来构建端到端视图。此外，您还可以使用*What If*功能升级或降级配置中的组件。</block>
+  <block id="b3265dbcd4101d08359925c13b7bf6bb" category="summary">如果您希望接收更多更新、可以从结果页面取消订阅此配置。</block>
+  <block id="346753ac0751bbc24e863f483b63cc14" category="doc">取消订阅已订阅的配置</block>
+  <block id="53a607950bfec5d5401aa3bfcb40d688" category="paragraph">如果您希望接收更多更新，可以从*results*页面取消订阅该配置。</block>
+  <block id="dd9fbf502ce2472f202cfc7a5955bf4f" category="paragraph">您必须已从*结果*页面订阅配置。</block>
+  <block id="d2e50314a1e8348725849e14a148c005" category="paragraph">取消订阅配置：</block>
+  <block id="2ff49414f9a59731963781d2fe599a7e" category="list-text">在*results*页面中，单击星号取消订阅已订阅的配置。如果从收藏夹列表中删除配置、则会自动取消订阅该配置。</block>
+  <block id="6acf0028fdb5a7c7400ee13b800a5b80" category="summary">NetApp互操作性表工具(IMT)是一款基于Web的应用程序。使用IMT、您可以搜索符合NetApp指定的标准和要求的NetApp产品和组件的配置</block>
+  <block id="cc5fc314522b4b09cd2aa04bd3a3f35e" category="doc">正在使用"找不到配置"</block>
+  <block id="bb9e1f262e92df0b402da927acb28603" category="paragraph">如果找不到所需的配置，可以使用*CA找不到config?*功能将问题报告给支持团队。</block>
+  <block id="a1d312e83c32c0a40d094c17229a053a" category="paragraph">打开“找不到配置”菜单以报告问题。填写并发送表格以获得帮助。</block>
+  <block id="6da8095a6390487f109a2a5846439157" category="summary">通知菜单将显示您当前的通知。</block>
+  <block id="3c2db9c439c2e925fa947413bf4bf855" category="doc">使用通知</block>
+  <block id="5d9015c8edb2c933a6e7caf177a1834e" category="paragraph">“*通知*”菜单显示您当前的通知。</block>
+  <block id="6c46011fcd0d7911c2b61f02efb52129" category="summary">细化搜索条件允许您浏览与您的商品兼容的配置。</block>
+  <block id="b4bbb09392c90b3947cdb432d3d27e30" category="doc">使用细化搜索条件</block>
+  <block id="faa84239e1b2647e5bb0983d17bfc000" category="paragraph">*细化搜索条件*允许您浏览与您的产品兼容的配置。通过从不同类别中选择组件、您可以缩小配置范围、使其符合您的产品所需的配置。</block>
+  <block id="1b9e32b8f904123d04a67fe606cceaa4" category="admonition">关键字*机架*和*刀片*仅与*4.x*中的组件一起显示。</block>
+  <block id="dd593eb13f2c8a1efb1881fc710f04be" category="summary">许多行在互操作性表工具中都包含非常相似的信息、要找出行之间的差异、您可能需要手动执行一个繁琐的过程。</block>
+  <block id="20b3802386d1ed5c62f4a00e49eb179c" category="doc">使用行比较</block>
+  <block id="ad118d64f1d46843db307e3019d5e24d" category="paragraph">许多行在互操作性表工具中都包含非常相似的信息、要找出行之间的差异、您可能需要手动执行一个繁琐的过程。互操作性表工具提供了比较两行的功能。</block>
+  <block id="069d0514bed019adffa6b98198fbcab3" category="paragraph">在结果页面中、每个解决方案都会托管添加以比较按钮或配置卡标题上的图标。</block>
+  <block id="7873eb76fd54f0be0cb18574a2939c9a" category="list-text">要添加要比较的配置，请单击*Configuration Component Compare*图标。您最多可以选择两个配置进行比较。</block>
+  <block id="ba5bfd55a92b4b1db47455be6a399f82" category="list-text">单击*Configuration Component Compare*按钮比较两行。</block>
+  <block id="52363bd1c9aa306a445bffd05a0f61ec" category="paragraph">在中途停留显示框中，差异以*Bold*字体突出显示。这些组件会分组在相应的组件类型下。两行中相同的组件将采用普通字体。您将无法比较两个解决方案之间的行。</block>
+  <block id="9f8548f695e22969f89afa15c1a2e97d" category="summary">"订阅"链接可用于订阅存储解决方案、类别或组件。如果您订阅了特定存储解决方案、类别或组件、则只有在订阅的解决方案、类别或组件发生更改后、您才会收到电子邮件。</block>
+  <block id="898833500a2198903c1c83dfc109c034" category="doc">使用订阅</block>
+  <block id="d130c63d82164f0cdd641554e6c0065f" category="paragraph">通过*订阅*链接，您可以订阅*存储解决方案、类别或组件*。如果您订阅了特定存储解决方案、类别或组件、则只有在订阅的解决方案、类别或组件发生更改后、您才会收到电子邮件。</block>
+  <block id="8db70aba3fbc9a6b95c9b38b17281ee4" category="paragraph">您将收到以下订阅的电子邮件：</block>
+  <block id="6aaaa6ee63ae61b3ccd3449b9db168c8" category="list-text">*存储解决方案*：在状态更新、关联或解除关联的类别以及添加或删除的配置中进行更改时。</block>
+  <block id="4f679bca94bf2251743828a60756af66" category="list-text">*类别*：在类别中添加或删除组件时。</block>
+  <block id="d54b1a2758b7e5ba3933627fd870466e" category="list-text">*Component*：在组件的显示名称或组件状态中进行更改时。</block>
+  <block id="32e8c8034cc53d4add255eaca611041d" category="admonition">您将收到一封电子邮件、具体取决于您选择的频率类型。两种频率类型如下：</block>
+  <block id="644800f75dbb0533a7118b75eade12e4" category="list-text">立即：对订阅的解决方案、类别或组件进行任何更改后、您将立即收到一封电子邮件。</block>
+  <block id="b14aa29ea1ad370e9378af29d93cfa7d" category="list-text">摘要：您将每七天收到一封累积的电子邮件、其中反映了对订阅的解决方案、类别或组件所做的所有更改。</block>
+  <block id="0e2a7801346c9a649707e972c3926306" category="summary">您可以浏览搜索条件支持的所有可能配置。</block>
+  <block id="827ad910b151e2ee60d11bfee3d1c207" category="doc">使用假设条件</block>
+  <block id="3021a2b1e541ffbc51c584c2e7c27694" category="paragraph">您可以浏览搜索条件支持的所有可能配置。您可以使用*What If*升级或降级选定配置的组件并探索兼容性。</block>
+  <block id="e8b2d018252ed6bec2cfc70d4cbfa7e1" category="inline-xref-macro">报告问题</block>
+  <block id="bdc78183d26b19d7860059ca9bce0bdf" category="paragraph">如果找不到所需的配置，请单击*Feedback*报告问题。有关详细信息，请参见 <block ref="373fef4cf725e9b952ca544386721376" category="inline-xref-macro-rx"></block>。</block>
+  <block id="2ca70e123444aa174b92f33c622c8ad3" category="summary">"策略和准则"页面介绍了有关该解决方案的所有最新信息和指导。</block>
+  <block id="47af5fe6fb8ced5867f5b5b763b4acb6" category="doc">查看策略和准则</block>
+  <block id="151536ba7a317231e3d5fd4d5883c17c" category="list-text">单击*Playground页面上的*Policies &amp; Policies*。此时将打开“策略和准则”页面。</block>
+  <block id="7a3e4c7c6f1988fac1d5f9d707e486fd" category="list-text">查看解决方案的最新新闻、指导、策略信息和版权信息。在*Playground页面上，您可以更改该解决方案以查看特定于该解决方案的其他策略和准则。</block>
+  <block id="fd0b17648cbb96f58d57667a2638c245" category="list-text">关闭页面并返回到*Playground页面。</block>
+  <block id="2f626e6c5a6afb5eb305cba0328658ec" category="summary">在Welcome to the IMT页面上、您可以加载保存的搜索条件以显示最近的搜索。</block>
+  <block id="51bc1d62e0da280cc69969013d619869" category="doc">查看近期搜索条件</block>
+  <block id="24e70611d99edf18b600cc25d967fb1e" category="paragraph">在*Welcome to the IMT (欢迎使用搜索)*页上，您可以加载保存的搜索准则以显示最近的搜索。</block>
+  <block id="d36179ee552c8cd7f2138babd00e9b23" category="paragraph">您必须已保存最近的搜索。</block>
+  <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">单击*保存的搜索*。</block>
+  <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">选择*最近搜索*选项卡以查看最近保存的搜索。此时将显示您最近的搜索结果。</block>
+  <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">选择*搜索条件*选项卡以查看您保存的特定搜索条件。此时将显示您保存的条件。</block>
+  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">您可以使用*高级搜索*来搜索不同的组件，并在搜索条件中添加或删除组件。</block>
+  <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">使用高级搜索</block>
+  <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">您可以使用*高级搜索*来搜索不同的组件，以便在搜索条件中添加或删除组件。您可以使用*Advanced Search*窗口中的搜索文本框来搜索组件。</block>
+  <block id="6756f030171d226f3144040663767c49" category="paragraph">您可以根据需要使用以下筛选器：</block>
+  <block id="98b1c17c17aa647792153499156deb5d" category="list-text">选择*不显示有限支持组件*，以防止在结果中看到支持有限的组件。</block>
+  <block id="39b498afb424201be730ced244bee6c3" category="list-text">选择*不显示EOVS组件*以防止在结果中看到支持版本结束的组件。</block>
+  <block id="0a878e7c0f88ad1e8e7e90459b61cb42" category="paragraph">在此页面中，您还可以查看*组件资源管理器、加载保存的准则或配置*，或使用*搜索助手*。</block>
+  <block id="1d485407254c2b22c40dd2026cff46c6" category="doc">使用"列表和查找"</block>
+  <block id="5e3c4ba62e19206dcf657ad7b622bafc" category="paragraph">在*列表和查找*组件工作区中，您可以查看组件的最佳配置。</block>
+  <block id="027b6d13735ce68325fbf3b69239bee8" category="paragraph">使用左侧的*组件资源管理器*面板查看选定组件的配置。右侧面板将显示解决方案；每个选项卡均表示一个存储解决方案以及使用选定组件的配置数量。如果*列表和查找组件WorkArea*上的绿色*Logic *切换按钮设置为或，您可以搜索配置包含单个组件的解决方案。如果绿色*Logic *切换按钮设置为*和*，则可以搜索配置包含所有选定组件的解决方案。如果在同一组件类型中选择了多个组件，则该按钮将设置为*或*。</block>
+  <block id="9f2c7bb4e0e0399fff157d283ef3cf20" category="list-text">单击主页上的*列表和查找*。</block>
+  <block id="897c772a7e35dc75797920a141aedb90" category="list-text">在*组件资源管理器*中搜索组件名称或展开选择以将组件添加到*列表和查找组件WorkArea*。</block>
+  <block id="45bd03466f004ddb3d958afadbf1b92a" category="admonition">在将组件添加到*列表并查找组件WorkArea*之后，您可以选择特定的已启用解决方案，然后单击*下一步*。您还可以在Excel电子表格或PDF中为一个解决方案一次最多导出3000行。</block>
+  <block id="7b20b2bbc03b292378be70bd74c67006" category="list-text">单击*Next*，在*results*页上查看在多个解决方案的配置中组件的使用位置。此时将显示与您的组件列表最兼容的配置。</block>
+  <block id="127e34472d9dcb8e7825d453085448c7" category="summary">检查ONTAP版本与闪存或光纤存储版本组合的兼容性。您可以进一步细化每个相关组件的兼容性搜索</block>
+  <block id="45867ddf970470aa7e77f248425c75e6" category="doc">使用ONTAP SAN主机简化搜索</block>
+  <block id="61f451665f535dca2ca857c688b82ed8" category="paragraph">检查ONTAP版本与闪存或光纤存储版本组合的兼容性。您可以进一步细化每个相关组件的兼容性搜索。</block>
+  <block id="9c1a71cd4de013875c9b459346958efa" category="paragraph">您可以检查SAN上的闪存或光纤存储设备与要使用的ONTAP版本以及其他相关组件之间的兼容性。您可以在*Expert View*或*ANCHODORE*视图之间进行选择。</block>
+  <block id="40b1e4a59a1bc5c85695af0756b84ca0" category="admonition">单击*设为默认值*选项可在您打开IMT时自动打开*简化的ONTAP SAN主机*搜索。</block>
+  <block id="6ae251336f26dbfeacf40f8af4055800" category="list-text">在主页中单击“*简化的ONTAP SAN主机*”。</block>
+  <block id="9f350ade443152c2c85a538bbade24e8" category="list-text">选择要使用的视图：</block>
+  <block id="994ad29241d78e9164fabb5ffaad044c" category="list-text">单击*Expert View*可查看高级标准选项。</block>
+  <block id="fc2d52b231b65209de6b904e58054728" category="list-text">单击*引导式视图*可查看简化和引导式标准选项。</block>
+  <block id="d0faa1de14e7c4d8db450ac5951593f5" category="list-text">在*新用户视图*中，选择显示的搜索准则选项。</block>
+  <block id="7d2fe68c49fe99a361082b6364a11e6c" category="list-text">单击*Skip*移动到下一个组件而不进行选择。您可以根据需要单击*Unski*返回组件。</block>
+  <block id="c2e9533c50e6623c0b26145dfe971d7d" category="list-text">完成后，单击*查看结果*以查看搜索条件支持的配置。</block>
+  <block id="041463b623ea41ae4843a90154289822" category="list-text">在*Expert View*中，选择要用于各种组件的搜索条件。我们建议您从左向右移动、因为每个选择都会细化其余条件。您不必为每个组件进行选择。</block>
+  <block id="b622e80fb613cd93f846f78712c55f21" category="list-text">您还可以在*简化的ONTAP SAN主机*中执行以下操作：</block>
+  <block id="0d945fd644ef263977762f0180076e9c" category="list-text">单击书籍图标可查看适用于您选择的策略和准则。</block>
+  <block id="ac2a3ee5cc0c6e8ac6d6904972485028" category="list-text">单击链图标可为您的选择生成一个可共享的URL、您可以与其他人共享此URL。</block>
+  <block id="59e0d9789f64ece5977e7f940ba53af0" category="list-text">选择撤消图标以清除所有选择并重新开始。</block>
+  <block id="ac370db43df7302f140520247cd911d0" category="list-text">在结果屏幕中、您可以执行以下操作：</block>
+  <block id="5c9aecea84270e44fc9ec4a44d8badd9" category="list-text">查看有关您的配置的详细信息、警报和信息通知。</block>
+  <block id="6d09d563ca5efa55ac958df61c73bfb6" category="list-text">单击星号图标将此搜索设为收藏项。命名并描述配置。这将成为保存的搜索，可从*保存的搜索*菜单中查看。您也可以在此处订阅配置、更改后会通知您。如果您订阅，您还会在*subscribes*菜单下看到此列表。</block>
+  <block id="a61fbf0d1c3ed9c2a1c08cb05d97e3a9" category="list-text">将鼠标悬停在*使用*构建端到端视图上可查找其他受支持的解决方案。</block>
+  <block id="19bfe090a6a2c5fb7b287f5d7c17cd5e" category="list-text">单击*What if*以更改组件并浏览其他兼容性选项。</block>
+  <block id="e1075a632aa2a4299a5ce1d7a1eb1cc1" category="summary">您可以使用首选项列表和查找类别首选项来保存您喜爱的类别。</block>
+  <block id="bea6af0d35e7d9db77ca5a88081ab11f" category="doc">使用首选项</block>
+  <block id="6e965a953c3c414acf42bd172897202b" category="paragraph">“*首选项列表”和“查找类别首选项*”菜单将打开“*列表和查找类别首选项*”页面，您可以在此处将收藏的类别保存到“*列表和查找组件资源管理器*”列表的顶部。</block>
+  <block id="06bd3b66ef75cd45a080babe715be077" category="paragraph">您可以使用“*列表和查找类别首选项*”页面选择您喜爱的类别。这些类别显示在*列表和查找组件资源管理器*列表的顶部，并以红色框装。</block>
+  <block id="9971253c2d0d9e64cbd29574a229f3a7" category="list-text">单击*首选项列表，然后在主页上找到类别首选项*。“列出并查找类别首选项”页打开。</block>
+  <block id="ab543d4e89323d7be3fb8199907b80cf" category="list-text">选择要保存为收藏夹的类别。您可以滚动浏览列表或在*搜索类别*字段中搜索类别。您可以根据需要选择任意数量的类别。</block>
+  <block id="ae88ce9b5bb2f1d6426908fbdced0f18" category="list-text">单击*保存*以保留您的首选项。如果需要，可以单击*Reset (重置)*清除现有首选项列表。</block>
+  <block id="69d1c0084e5b27989da1844d88af2a13" category="list-text">要查看首选项，请单击*Home*，然后单击*List and Find *。您最喜欢的类别显示在*组件资源管理器*的顶部，以红色显示。</block>
+  <block id="fb156ce54b4ca2da822edd8aa40ad956" category="summary">OU可以查看和导出符合您的产品要求的配置的结果。</block>
+  <block id="4830cad474537506142af149acab443e" category="doc">处理结果</block>
+  <block id="4d82c4a00337f4f8893787f478baed58" category="paragraph">您可以查看和导出符合产品要求的配置的结果。</block>
+  <block id="7a7cbe01895fca99b25cc52488dfdfb0" category="paragraph">在*results*页面中，您可以通过选择与选定配置兼容的相关解决方案来构建端到端视图。</block>
+  <block id="00d8407216cc7cfbe0b75371c9693434" category="admonition">如果未看到预期结果、请清除筛选器。</block>
+  <block id="b48b202726bb5c6829fc6fd412762191" category="summary">您可以保存和更新搜索条件和配置。</block>
+  <block id="287cea239d29e9cedf992caa172af964" category="doc">使用保存的条件、最近搜索和配置</block>
+  <block id="ceed8f9438f1c40008444f5ef0980d00" category="paragraph">您可以保存和更新搜索条件和配置。您可以加载、编辑和删除保存的条件和配置。</block>
+  <block id="2c9388e22e8d53e6cc4d40b002ce8372" category="summary">您可以使用搜索助手、根据搜索条件为您提供浏览兼容配置的建议。</block>
+  <block id="4478096ab411283fd2e6a8520fc4496f" category="doc">使用搜索助手</block>
+  <block id="4987cd9246140609c39ded884952d01d" category="paragraph">*搜索助手*根据您输入的搜索条件提供浏览兼容配置的建议。“*搜索助手*”部分显示了常用类别，您可以从中选择要包含在搜索准则中的组件。根据您选择的组件、搜索助手会显示兼容的组件和解决方案。</block>
+  <block id="08e5e0ba24ad17a936307bab2f88e264" category="paragraph">如果您输入的搜索条件不正确，并且互操作性表工具(IMT)找不到任何结果，*搜索助手*将显示更正搜索条件的建议。</block>
+  <block id="ec537610e86351d19225db2784bf191f" category="summary">您可以使用搜索文本框搜索组件、解决方案、类别和配置。根据您输入的文本、搜索文本框会显示可能的匹配项、您可以将这些匹配项包含在搜索条件中。</block>
+  <block id="27e661d01e996755ff6343e36db32eca" category="doc">使用搜索文本框</block>
+  <block id="414c2ebd5dd0c5ec528d47cd4e692033" category="summary">您可以搜索不同的存储解决方案、并在搜索条件中添加或删除解决方案。您可以使用"解决方案搜索"页面中的搜索文本框搜索特定解决方案。"解决方案搜索"字段将显示经常访问的解决方案。</block>
+  <block id="7cca85d1f23f3abdc04fb438461cad0f" category="doc">使用解决方案搜索</block>
+  <block id="df46242fb61bcf1a60e71305db81b7d9" category="paragraph">您可以搜索不同的存储解决方案、并在搜索条件中添加或删除解决方案。您可以使用*解决方案搜索*页面中的搜索文本框来搜索特定的解决方案。经常访问的解决方案显示在*解决方案搜索*字段中。</block>
+  <block id="57db59ac9c6d6c1ace7a61d1f1391bc7" category="paragraph">“*解决方案搜索*”页包括一个*解决方案目录*选项卡和一个*映射助手*选项卡。在*Mapping Assistant"(*映射助手*)选项卡中，您可以通过选择*Map by Category (按类别映射)*或*Map by Solution (按解决方案映射)*来查看选定解决方案的类别。</block>
+  <block id="1cafef499933520a9e86177fcb165e06" category="section-title">解决方案目录</block>
+  <block id="7fae33de53bb2a5db04be163601aa253" category="paragraph">在*解决方案目录*选项卡上，可以使用过滤器条*过滤解决方案*。</block>
+  <block id="7f757fee6e4d6aaedaccbfee2a9c5443" category="paragraph">如果要包括此类配置，还可以选择*包括PVR必需配置、EOS配置和已废弃配置*。</block>
+  <block id="a61f1f1e80b63ed74149794321258708" category="section-title">映射助理</block>
+  <block id="522f2a5728bdde0e1e796e235a6db1d9" category="paragraph">以下是两种类型的工作区模式：</block>
+  <block id="8bc84f3532dc0826e4fe9954b23a9e7a" category="list-text">*按类别映射*：您可以从列出的类别中选择一个类别，并启用包含选定类别的所有解决方案，有效的解决方案位于列表顶部。您可以选择添加一个或多个支持的解决方案。您可以使用*搜索类别*文本框搜索特定类别。</block>
+  <block id="83642ee81bca51efd5a8505c5dbb71ae" category="list-text">*按解决方案映射*：您可以从列出的解决方案中选择一个解决方案，并启用包含选定解决方案的所有解决方案，有效解决方案位于列表顶部。您可以选择添加一个或多个支持的解决方案。您可以使用*搜索解决方案*文本框搜索特定类别。</block>
+  <block id="205b32aced3513c0bdb9dfdb8cbd86a4" category="paragraph">完成后，您可以在*选定存储解决方案*下看到您选择的项目。*单击查看细化搜索条件*或*跳至结果*。</block>
+  <block id="7b830318624b05f50d5376aa150520a8" category="section-title">引导式搜索</block>
+  <block id="0b4078bb132552033ef900528e6773cb" category="paragraph">选择解决方案时，将启用*引导式搜索*。*引导式搜索*提供了一个引导式工作流，用于进一步细化标准。</block>
+  <block id="c8d8164a68d29958f434cb28bd55364c" category="list-text">单击主页中的*解决方案搜索*。</block>
+  <block id="c5d1a4e5b85f3b8338aa0a7306f6f126" category="list-text">单击*Expert View*可查看高级标准选项。</block>
+  <block id="77df4fedf30b095745c71ad8a5d6dbe1" category="list-text">单击*引导式视图*可查看简化的标准选项和引导式标准选项。</block>
+  <block id="92966aaa8e23f9c38da8793b0ed456e4" category="list-text">在*新用户视图*中，选择显示的搜索准则选项：</block>
+  <block id="717ada056e3a3ab33201e93190a96d7b" category="list-text">在前五个选择后，单击*显示更多*以继续细化搜索条件。您可以通过单击*显示更少*返回上一视图。</block>
+  <block id="7381b6af8540464ba572c1a41d6bbece" category="list-text">您也可以在*解决方案搜索*中执行以下操作：</block>
+  <block id="22ccf134d726013f225f30e415350afd" category="list-text">单击链图标可为您的选择生成一个可共享的URL、您可以与其他人共享此URL。</block>
+  <block id="2a255f76e7a4e41ac5208b9f9c1e14bf" category="list-text">选择撤消图标以清除所有选择并重新开始。</block>
+  <block id="7d3548071d43ddbb5a114244d649cc72" category="list-text">单击星号图标将此搜索设为收藏项。命名并描述配置。这将成为保存的搜索、可从"保存的搜索"菜单中查看。您也可以在此处订阅配置、更改后会通知您。如果您订阅，您还会在*subscribes*菜单下看到此列表。</block>
+  <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">执行常见搜索</block>
+  <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">已保存搜索功能</block>
+  <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">使用"找不到配置"</block>
+</blocks>

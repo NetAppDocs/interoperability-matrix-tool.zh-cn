@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 您可以使用*结果*页面中的假设条件功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。 
+---
+= 选择要升级或降级的组件
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用*results*页面中的*What If*功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。
+
+.步骤
+. 单击*What If*以查看可升级或降级以修改选定配置的组件。
+. 单击某个类别可查看可升级或降级的组件。
+. 在可用选项窗口中、您可以搜索并选择特定组件版本。
+. 如果选定组件是有效配置且与先前的配置兼容、则会显示兼容性消息。现在、您可以导出结果以查看所有受支持的配置。
+

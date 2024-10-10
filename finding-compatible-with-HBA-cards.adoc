@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-with-hba-cards.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, compatible, hba, cards 
+summary: 您可以使用互操作性表工具查看FCoE上Cisco UCS P81E卡等配置支持的主机操作系统。 
+---
+= 查找与HBA卡的兼容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+借助*简化的ONTAP SAN主机*功能，用户界面被简化并精简为三个组件；早期版本的用户界面中有十三个组件。其余十个组件由NetApp隐式支持、但前提是它们受相应供应商支持。*Notes*和*Alert*按解决方案分类，并添加到每个结果中。
+
+互操作性表工具(IMT)中支持的三个组件是ONTAP操作系统、主机操作系统和协议。
+
+您可以使用IMT验证主机操作系统是否支持ONTAP。
+
+例如、使用以下配置验证Cisco统一计算系统(Cisco UCS)刀片式服务器是否支持ONTAP：
+
+*示例Cisco UCS刀片服务器配置*
+
+* ONTAP OS 9.13.1
+* 主机操作系统：Red Hat Enterprise Linux 9.2
+* 服务器型号：Cisco UCS B200 M6刀片式服务器
+* 主机总线适配器(HBA)
++
+** 型号：Cisco UCSB-MLOM-40G-04：Cisco UCS 1440虚拟接口卡
+** 驱动程序版本：1.6.0.53 fnic
+** 固件版本：5.3 (2)
+
+
+* UCS服务器固件：5.2 (0)
+* 协议：FCoE
+
+
+*验证Cisco UCS刀片式服务器的可支持性*
+
+* 使用IMT中的*简化ONTAP SAN主机*功能验证是否将.13.1, Red Hat ONTAP 9 9.2和FCoE协议列为受支持的配置。
+* NetApp支持的HBA供应商包括Broadcom、Marvell和Cisco。Cisco包含在支持的适配器列表中、这意味着Cisco虚拟接口卡(VIC)也受支持。
+* 使用供应商硬件兼容性列表(Hardware Compatibility List、HCL)验证Cisco "UCS硬件和软件兼容性"。如前面的服务器配置列表中所述、验证Red Hat Enterprise Linux 9.2是否支持HBA适配器型号、UCS服务器固件版本以及HBA驱动程序和固件版本。
+

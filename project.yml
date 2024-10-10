@@ -1,0 +1,148 @@
+---
+settings:
+  name: Interoperability Matrix Tool
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: 互操作性表工具概述
+    url: "/index.html"
+  - title: 执行常见搜索
+    url: "/performing-common-searches.html"
+    entries:
+    - title: 使用ONTAP SAN主机简化搜索
+      url: "/working-with-ontap-san-host-solutions-search.html"
+    - title: 使用解决方案搜索
+      url: "/working-with-solution-search.html"
+    - title: 使用"列表和查找"
+      url: "/working-with-list-and-find.html"
+    - title: 使用高级搜索
+      url: "/working-with-advanced-search.html"
+  - title: 了解互操作性表工具
+    url: "/exploring-the-interoperability-matrix-tool.html"
+    entries:
+    - title: 使用订阅
+      url: "/using-subscription.html"
+    - title: 使用通知
+      url: "/using-notifications.html"
+    - title: 已保存搜索功能
+      url: "/saved-search-capabilities.html"
+    - title: 使用"找不到配置"
+      url: "/use-cannot-find-config.html"
+    - title: 工具箱中可用的工具
+      url: "/tools-available-in-toolbox.html"
+    - title: 解决方案报告
+      url: "/solution-reports.html"
+    - title: 使用首选项
+      url: "/working-with-preferences.html"
+  - title: 互操作性表工具搜索工作流
+    url: "/interoperability-matrix-tool-search-workflow.html"
+    entries:
+    - title: 使用搜索助手
+      url: "/working-with-search-assistant.html"
+    - title: 使用搜索文本框
+      url: "/working-with-search-text-box.html"
+    - title: 使用细化搜索条件
+      url: "/using-refine-search-criteria.html"
+    - title: 查找适用于您的产品的兼容主机操作系统
+      url: "/finding-compatible-host-os.html"
+    - title: 查找适用于您的产品的兼容Windows Server主机
+      url: "/finding-compatible-windows-server.html"
+    - title: 查找与HBA卡的兼容性
+      url: "/finding-compatible-with-hba-cards.html"
+    - title: 查找特定配置并检查产品升级或降级可支持性
+      url: "/finding-specific-config-and-checking-for-product-upgrade.html"
+    - title: 处理结果
+      url: "/working-with-results.html"
+    - title: 在产品之间建立端到端兼容性
+      url: "/building-end-to-end-compatibility.html"
+    - title: 查看策略和准则
+      url: "/viewing-policies-and-guidelines.html"
+    - title: 使用假设条件
+      url: "/using-what-if.html"
+    - title: 用于确定兼容性的Active IQ互操作顾问工具
+      url: "/the-activeiq-interop-advisor-tool.html"
+    - title: 报告问题
+      url: "/reporting-an-issue.html"
+  - title: 定义并输入搜索条件
+    url: "/defining-and-entering-the-search-criteria.html"
+    entries:
+    - title: 将组件添加到搜索条件
+      url: "/add-components-to-search-criteria.html"
+    - title: 将解决方案添加到搜索条件
+      url: "/add-solutions-to-search-criteria.html"
+    - title: 将配置名称添加到搜索条件
+      url: "/add-config-names-to-search-criteria.html"
+  - title: 使用保存的条件、最近搜索和配置
+    url: "/working-with-saved-criteria-recent-searches-and-config.html"
+    entries:
+    - title: 保存搜索条件
+      url: "/saving-the-search-criteria.html"
+    - title: 与其他用户共享的已保存搜索条件
+      url: "/saved-search-criteria-sharing-with-other-users.html"
+    - title: 加载保存的条件
+      url: "/loading-the-saved-criteria.html"
+    - title: 编辑保存的条件
+      url: "/editing-saved-criteria.html"
+    - title: 删除保存的条件
+      url: "/deleting-saved-criteria.html"
+    - title: 保存配置
+      url: "/saving-configuration.html"
+    - title: 订阅配置
+      url: "/subscribing-to-config.html"
+    - title: 取消订阅已订阅的配置
+      url: "/unsubscribe-the-subscribed-config.html"
+    - title: 加载已保存的配置
+      url: "/loading-the-saved-config.html"
+    - title: 从已保存标记中删除配置
+      url: "/removing-config-from-saved-tags.html"
+    - title: 删除标记名称
+      url: "/deleting-tag-names.html"
+    - title: 保存最近的搜索
+      url: "/saving-a-recent-search.html"
+    - title: 查看近期搜索条件
+      url: "/viewing-recent-search-criteria.html"
+  - title: 使用细化搜索条件查找兼容性
+    url: "/finding-the-compatibility-using-the-refine-search-criteria.html"
+    entries:
+    - title: 精炼搜索条件页面以验证兼容性
+      url: "/refine-serach-page-to-verify-compatibility.html"
+    - title: 将筛选器应用于类别
+      url: "/apply-filters-to-categories.html"
+    - title: 修改搜索条件
+      url: "/modify-the-search-criteria.html"
+    - title: 生成URL
+      url: "/generate-the-url.html"
+  - title: 了解并使用互操作性表工具结果
+    url: "/understanding-and-using-imt-results.html"
+    entries:
+    - title: 支持的配置搜索
+      url: "/supported-config-searches.html"
+    - title: 使用行比较
+      url: "/using-row-compare.html"
+    - title: 为选定配置创建端到端视图
+      url: "/create-end-to-end-view-for-selected-config.html"
+    - title: 导出配置结果
+      url: "/export-config-results.html"
+  - title: 如何使用假设条件
+    url: "/how-to-use-what-if.html"
+    entries:
+    - title: 选择要升级或降级的组件
+      url: "/select-component-to-upgrade-or-downgrade.html"
+  - title: 订阅存储解决方案、类别或组件
+    url: "/subscribing-to-storage-solutions-categories-or-categories.html"
+    entries:
+    - title: 订阅存储解决方案
+      url: "/subscribing-to-storage-solutions.html"
+    - title: 订阅类别
+      url: "/subscribing-to-categories.html"
+    - title: 订阅组件
+      url: "/subscribing-to-components.html"
+  - title: 对互操作性表工具问题进行故障排除
+    url: "/troubleshooting-interoperability-matrix-tool-issues.html"
+  - title: 获取更多信息
+    url: "/get-more-information.html"

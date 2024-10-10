@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: finding-the-compatibility-using-the-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '在互操作性表工具(IMT)中、您可以通过细化搜索条件页面了解与您的产品兼容的配置。' 
+---
+= 使用细化搜索条件查找兼容性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在互操作性表工具(IMT)中，*细化搜索标准*页允许您浏览与您的产品兼容的配置。您可以为您的商品搜索兼容的解决方案、组件、类别或配置。通过选择适当的组件、您可以根据需要缩小配置结果的范围。
+
+
+
+== 兼容性警告
+
+如果IMT最终用户应用程序中的*Refine Search Criteries*页面上的任何组件彼此兼容，则会显示兼容性警告消息。此兼容性警告以红色突出显示并显示在页面顶部、类似于以下消息：
+
+`Please note: you must go to the Results page (next step) to confirm valid configurations.`
+
+如果您看到兼容性警告，请通过单击“*查看支持的配置*”链接导航到“*查看支持的配置*”页面。

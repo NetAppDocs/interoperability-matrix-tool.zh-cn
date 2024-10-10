@@ -1,0 +1,68 @@
+---
+sidebar: sidebar 
+permalink: exploring-the-interoperability-matrix-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: '互操作性表工具(IMT)是一款基于Web的应用程序、可用于搜索NetApp产品的兼容性和受支持的配置。' 
+---
+= 了解互操作性表工具
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+互操作性表工具(IMT)是一款基于Web的应用程序、可用于搜索NetApp产品的兼容性和受支持的配置。
+
+您可以执行以下任务：
+
+[cols="25,75"]
+|===
+| 正在使用... | 您可以执行以下任务 ... 
+
+
+| 主页 | 使用*简化的ONTAP SAN主机、解决方案搜索、列表和查找*以及*高级搜索*进行搜索以查看兼容性。提供了指向*培训*视频和* Active IQ互操作顾问*的直接链接。 
+
+
+| 简化ONTAP SAN主机 | 检查ONTAP版本和闪存/光纤存储版本组合的兼容性。 
+
+
+| 解决方案搜索 | 搜索解决方案并添加标准以检查兼容性。 
+
+
+| 列出并查找 | 了解组件在各种配置和解决方案中的使用位置。 
+
+
+| 高级搜索 | 搜索组件并添加条件以检查兼容性。 
+
+
+| 订阅 | 查看您先前订阅的*存储解决方案、类别或组件*配置。 
+
+
+| 通知 | 查看IMT更新通知。 
+
+
+| 已保存搜索 | 打开您先前保存的搜索。 
+
+
+| 找不到配置 | 用于报告在IMT中找不到的配置。 
+
+
+| 工具箱 | 根据您作为*客户、合作伙伴或内部NetApp员工的角色访问工具。 
+
+
+| 报告 | 使用*完整每日导出*报告导出解决方案的配置，或使用*组件EOVS摘要*报告导出版本支持结束组件。 
+
+
+| 首选项 | 创建收藏*列表和查找*类别列表。这些类别显示在*List and Find (列表和查找)*中的*Component Explorer*(组件资源管理器)的顶部。 
+
+
+| 帮助 | 单击“*新增功能*”查看IMT的最新发行说明。单击*联机帮助*以查看此互操作性表工具帮助集。单击*Training*要观看有关如何使用互操作性表工具的视频，请查看 https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["NetApp学习中心"^]。要报告互操作性表工具的问题或提供反馈，请单击*报告问题*链接。单击*FAQ*可查看有关IMT的常见问题解答。单击*数据计划*(如果有)，查看计划的IMT数据库清理。单击*关于IMT *以查看版本和版权声明。单击*已知问题*以查看产品中报告的和未解决的错误。 
+
+
+| 请浏览 | 查看IMT周围的导游。 
+
+
+| <Your name> | 单击以*注销* IMT。 
+|===
+
+NOTE: 如果调整窗口大小、则所有页面都将响应。

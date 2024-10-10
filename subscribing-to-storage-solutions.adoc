@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: 您可以订阅您选择的单个或多个存储解决方案。 
+---
+= 订阅存储解决方案
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以订阅您选择的单个或多个存储解决方案。
+
+
+
+== 关于此任务
+
+两种类型的订阅如下：
+
+. *立即*：如果订阅的解决方案发生任何更改、您将立即收到一封电子邮件。
+. *摘要*：您将在七天内收到一封累积的电子邮件，其中反映了对订阅解决方案所做的所有更改。
+
+
+
+
+== 步骤
+
+. 单击标题菜单中的*订阅*链接。
+. 在*订阅*窗口中，选择*存储解决方案*选项卡。
+. 对于您选择的存储解决方案，请选中“*解决方案状态更新”、“关联或解除关联的类别”或“已添加或已删除的配置”选项的复选框。
++
+在以下情况下、您将收到电子邮件：
+
++
+** 解决方案的状态发生更改或更新时。
+** 在解决方案中添加或删除某些类别时
+** 在解决方案中添加或删除某些配置时
+
+
+. 在*频率*字段中，选择*立即*或*摘要*。
++
+
+NOTE: 默认选择为*立即*。
+
+. 单击*subscribe*以订阅您选择的解决方案。
++
+
+NOTE: 您可以单击*Reset (重置)*清除*Storage Solution (存储解决方案)*选项卡中的所有选择。
+
+

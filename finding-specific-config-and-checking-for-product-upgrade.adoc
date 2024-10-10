@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-specific-config-and-checking-for-product-upgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: 确定... 
+---
+= 查找特定配置并检查产品升级或降级可支持性
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用互操作性表工具查看特定配置、以便升级或降级产品配置中的组件。
+
+下面显示了工作流：
+
+image::pg16_imt.png[工作流以查看要升级或降级的特定配置]

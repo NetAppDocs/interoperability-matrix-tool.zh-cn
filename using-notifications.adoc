@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-notifications.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 通知菜单将显示您当前的通知。 
+---
+= 使用通知
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+“*通知*”菜单显示您当前的通知。

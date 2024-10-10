@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: viewing-policies-and-guidelines.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: '"策略和准则"页面介绍了有关该解决方案的所有最新信息和指导。' 
+---
+= 查看策略和准则
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+:firstname: [.lead]
+:author: [.lead]
+:authorinitials: [
+:authors: [.lead]
+:revdate: The *Policies &amp; Guidelines* link opens the Policies and Guidelines page for the selected solution.
+
+
+"策略和准则"页面介绍了有关该解决方案的所有最新信息和指导。
+
+
+
+== 步骤
+
+. 单击*Playground页面上的*Policies & Policies*。此时将打开“策略和准则”页面。
+. 查看解决方案的最新新闻、指导、策略信息和版权信息。在*Playground页面上，您可以更改该解决方案以查看特定于该解决方案的其他策略和准则。
+. 关闭页面并返回到*Playground页面。
+

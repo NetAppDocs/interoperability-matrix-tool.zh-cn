@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: working-with-list-and-find.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, list, find 
+summary: 确定... 
+---
+= 使用"列表和查找"
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在*列表和查找*组件工作区中，您可以查看组件的最佳配置。
+
+
+
+== 关于此任务
+
+使用左侧的*组件资源管理器*面板查看选定组件的配置。右侧面板将显示解决方案；每个选项卡均表示一个存储解决方案以及使用选定组件的配置数量。如果*列表和查找组件WorkArea*上的绿色*Logic *切换按钮设置为或，您可以搜索配置包含单个组件的解决方案。如果绿色*Logic *切换按钮设置为*和*，则可以搜索配置包含所有选定组件的解决方案。如果在同一组件类型中选择了多个组件，则该按钮将设置为*或*。
+
+
+
+== 步骤
+
+. 单击主页上的*列表和查找*。
+. 在*组件资源管理器*中搜索组件名称或展开选择以将组件添加到*列表和查找组件WorkArea*。
++
+
+NOTE: 在将组件添加到*列表并查找组件WorkArea*之后，您可以选择特定的已启用解决方案，然后单击*下一步*。您还可以在Excel电子表格或PDF中为一个解决方案一次最多导出3000行。
+
+. 单击*Next*，在*results*页上查看在多个解决方案的配置中组件的使用位置。此时将显示与您的组件列表最兼容的配置。
+

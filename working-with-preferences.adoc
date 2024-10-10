@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: 您可以使用首选项列表和查找类别首选项来保存您喜爱的类别。 
+---
+= 使用首选项
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+“*首选项列表”和“查找类别首选项*”菜单将打开“*列表和查找类别首选项*”页面，您可以在此处将收藏的类别保存到“*列表和查找组件资源管理器*”列表的顶部。
+
+
+
+== 关于此任务
+
+您可以使用“*列表和查找类别首选项*”页面选择您喜爱的类别。这些类别显示在*列表和查找组件资源管理器*列表的顶部，并以红色框装。
+
+
+
+== 步骤
+
+. 单击*首选项列表，然后在主页上找到类别首选项*。“列出并查找类别首选项”页打开。
+. 选择要保存为收藏夹的类别。您可以滚动浏览列表或在*搜索类别*字段中搜索类别。您可以根据需要选择任意数量的类别。
+. 单击*保存*以保留您的首选项。如果需要，可以单击*Reset (重置)*清除现有首选项列表。
+. 要查看首选项，请单击*Home*，然后单击*List and Find *。您最喜欢的类别显示在*组件资源管理器*的顶部，以红色显示。
+

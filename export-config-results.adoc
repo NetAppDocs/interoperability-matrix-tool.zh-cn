@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: export-config-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 您可以使用导出功能从*results*页面导出配置结果。 
+---
+= 导出配置结果
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用*Export*功能从*results*页面导出配置结果。配置结果导出包含存储解决方案的详细信息、搜索条件、配置详细信息以及任何特定警报或其他信息。您可以将配置结果导出到Excel电子表格或PDF。
+
+
+
+== 关于此任务
+
+包含配置结果的Excel工作表的文件名格式为 `IMT_solutionshortname_timestamp.xls`。
+
+
+
+== 步骤
+
+. 在*results*页面上，您可以从*Export*下拉菜单中选择导出当前解决方案或配置的端到端视图。
+. 根据您的要求，单击*当前解决方案*或*端到端视图*。最多可以导出3000行。以前、您最多可以导出1000行、但此限制已增加。您应使用筛选器减少结果。您也可以使用*完成每日导出*功能来获取完整结果。
+. 您可以将Excel电子表格或PDF保存到本地计算机。
+

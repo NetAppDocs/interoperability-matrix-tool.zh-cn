@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: solution-reports.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, component, EOVS, Summary 
+summary: 您可以查看和下载Excel或PDF版本的解决方案报告。 
+---
+= 解决方案报告
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用*报告>完成每日导出*功能查看和下载Excel或PDF版本的解决方案报告。您还可以下载Excel版的*组件EOVS摘要*，其中列出了已停止版本支持的组件。

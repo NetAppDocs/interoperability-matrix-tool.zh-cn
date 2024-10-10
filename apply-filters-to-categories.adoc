@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 在精炼搜索条件页面中、您可以通过从不同类别中选择组件来应用筛选器。通过应用筛选器、您可以将组件添加到搜索条件中并缩小配置结果的范围。 
+---
+= 将筛选器应用于类别
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+在*Refine Search Criteries*页面中，您可以通过从不同类别中选择组件来应用筛选器。通过应用筛选器、您可以将组件添加到搜索条件中并缩小配置结果的范围。
+
+
+
+== 步骤
+
+. 根据您的要求，在*细化搜索准则*页面上从所需类别中选择组件。在每个类别中、您可以搜索特定组件并选择所需组件。
+. *可选*：从不同类别中选择多个组件以缩小配置结果的范围。
+
+
+根据所选组件的兼容性、某些组件可能在类别中不可用。
