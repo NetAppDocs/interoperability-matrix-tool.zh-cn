@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: index.html 
-keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified, 
+keywords: interoperability matrix tool, imt, ONTAP SAN Host Simplified 
 summary: 'NetApp互操作性表工具(IMT)是一款基于Web的应用程序。使用IMT、您可以搜索符合NetApp指定的标准和要求的NetApp产品和组件的配置。' 
 ---
 = 互操作性表工具概述

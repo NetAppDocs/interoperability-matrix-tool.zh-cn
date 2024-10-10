@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: how-to-use-what-if.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: *假设*允许您探索所有可能支持的受支持配置。 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: 假设条件允许您探索所有可能受支持的配置。 
 ---
 = 如何使用假设条件
 :allow-uri-read: 

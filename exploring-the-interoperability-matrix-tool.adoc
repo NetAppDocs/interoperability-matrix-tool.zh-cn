@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: exploring-the-interoperability-matrix-tool.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
 summary: '互操作性表工具(IMT)是一款基于Web的应用程序、可用于搜索NetApp产品的兼容性和受支持的配置。' 
 ---
 = 了解互操作性表工具

@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: select-component-to-upgrade-or-downgrade.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: 您可以使用*结果*页面中的假设条件功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: 您可以使用结果页面中的假设条件功能升级或降级产品配置中的组件。您可以更改组件并探索兼容性。 
 ---
 = 选择要升级或降级的组件
 :allow-uri-read: 

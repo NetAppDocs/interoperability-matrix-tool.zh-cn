@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: tools-available-in-toolbox.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
-summary: “*工具箱*”选项卡显示了一个有用的工具列表，这些工具分为三个用户类别。每个工具都会显示一个链接。 
+summary: 工具箱选项卡显示了一个有用的工具列表、这些工具分为三个用户类别。每个工具都会显示一个链接。 
 ---
 = 工具箱中可用的工具
 :allow-uri-read: 
